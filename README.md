@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 100+ 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **28** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -55,74 +55,91 @@
 
 ## 📖 文章目录
 
+### 📊 统计概览
+
+> 共收录 **28** 篇研究文章，覆盖 **27** 个子分类，按 **4 大板块** 组织
+
+| 板块 | 目录数 | 文章数 | 说明 |
+|------|:------:|:------:|------|
+| **M - 模型理论** | 7 | 7 | 双引擎四层模型完整解析 |
+| **I - 行业研究** | 10 | 10 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **C - 个股案例** | 5 | 5 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
+| **R - 研究方法论** | 5 | 5 | 工具/数据处理/回测/随笔/文献综述 |
+
+---
+
 ### 🆕 最新文章
 
 > 精选推荐与最新发布的研究文章
 
-| 文章 | 分类 | 日期 | 难度 | 摘要 |
-|------|------|------|------|------|
-| **[老子道·芯鉴九维投资分析模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md)** | I05 | 2026-05-20 | 高级 | 以道家哲学为底层逻辑，构建覆盖电子行业五大细分赛道（半导体设备、AI芯片、半导体材料、存储芯片、消费电子）的九维量化投资分析模型 |
+| 文章 | 分类 | 日期 | 难度 | 阅读时间 | 摘要 |
+|------|------|------|:----:|:--------:|------|
+| **[老子道·芯鉴九维投资分析模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md)** | I05 | 2026-05-20 | 🔴 高级 | 45min | 以道家哲学为底层逻辑，构建覆盖电子行业五大细分赛道（半导体设备、AI芯片、半导体材料、存储芯片、消费电子）的九维量化投资分析模型 |
+| **[Dao Quant 双引擎四层融合模型架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md)** | M01 | 2026-05-20 | 🟡 中级 | 25min | 系统阐述 Dao Quant 核心模型的整体架构、设计哲学与核心逻辑，建立整体框架认知 |
+| **[基本面引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md)** | M02 | 2026-05-20 | 🟡 中级 | 30min | 双引擎四层模型中占60%权重的基本面评估体系，涵盖盈利/成长/估值/财务四大维度 |
+| **[量价引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md)** | M03 | 2026-05-20 | 🟡 中级 | 30min | 占25%权重的趋势、量价、资金、筹码四维分析体系 |
+| **[风控引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md)** | M04 | 2026-05-20 | 🟡 中级 | 25min | 占15%权重的波动率、回撤、集中度、流动性风险控制体系 |
+| **[新能源行业量化分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md)** | I06 | 2026-05-20 | 🟡 中级 | 35min | 光伏、锂电、储能产业周期分析与投资框架 |
+| **[沪深300成分股分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 30min | 大盘蓝筹的量化评估与选股策略 |
 
 ---
 
 ### 📚 完整分类目录
 
-> 共收录 **1** 篇研究文章（持续更新中），按 **4 大板块、27 个子分类** 组织
-
 #### M - 模型理论（Model Theory）
 
 关于双引擎四层融合模型的理论阐述与方法论
 
-| 子分类 | 代码 | 文章数 | 说明 |
-|--------|------|:------:|------|
-| [模型总览](./articles/M01-model-overview/) | M01 | — | 模型架构、设计哲学、整体介绍 |
-| [基本面引擎](./articles/M02-fundamental-engine/) | M02 | — | 盈利能力、成长能力、估值、财务健康 |
-| [量价引擎](./articles/M03-volume-price-engine/) | M03 | — | 趋势分析、量价配合、资金流向、筹码分布 |
-| [风控引擎](./articles/M04-risk-control/) | M04 | — | 波动率、回撤控制、集中度、流动性风险 |
-| [融合算法](./articles/M05-fusion-algorithm/) | M05 | — | 加权机制、评级映射、动态调整 |
-| [因子检验](./articles/M06-factor-validation/) | M06 | — | 单因子有效性、IC测试、分层回测 |
-| [模型迭代](./articles/M07-model-iteration/) | M07 | — | 版本更新、改进记录、回测对比 |
+| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+|--------|------|:------:|------|---------|
+| [模型总览](./articles/M01-model-overview/) | M01 | **1** | 模型架构、设计哲学、整体介绍 | [架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) |
+| [基本面引擎](./articles/M02-fundamental-engine/) | M02 | **1** | 盈利能力、成长能力、估值、财务健康 | [引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) |
+| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **1** | 趋势分析、量价配合、资金流向、筹码分布 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) |
+| [风控引擎](./articles/M04-risk-control/) | M04 | **1** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) |
+| [融合算法](./articles/M05-fusion-algorithm/) | M05 | **1** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) |
+| [因子检验](./articles/M06-factor-validation/) | M06 | **1** | 单因子有效性、IC测试、分层回测 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) |
+| [模型迭代](./articles/M07-model-iteration/) | M07 | **1** | 版本更新、改进记录、回测对比 | [迭代记录](./articles/M07-model-iteration/M07-01-model-iteration-records.md) |
 
 #### I - 行业研究（Industry Research）
 
 特定行业的量化分析框架与案例研究
 
-| 子分类 | 代码 | 文章数 | 说明 | 最新文章 |
+| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
 |--------|------|:------:|------|---------|
-| [银行业](./articles/I01-banking/) | I01 | — | 银行板块因子适配、特色指标 | — |
-| [非银金融](./articles/I02-nonbank-finance/) | I02 | — | 保险、证券、多元金融 | — |
-| [房地产](./articles/I03-real-estate/) | I03 | — | 房企量化分析、三道红线 | — |
-| [医药生物](./articles/I04-pharma/) | I04 | — | 创新药、医疗器械、CXO | — |
+| [银行业](./articles/I01-banking/) | I01 | **1** | 银行板块因子适配、特色指标 | [分析框架](./articles/I01-banking/I01-01-banking-quant-framework.md) |
+| [非银金融](./articles/I02-nonbank-finance/) | I02 | **1** | 保险、证券、多元金融 | [行业分析](./articles/I02-nonbank-finance/I02-01-nonbank-finance-analysis.md) |
+| [房地产](./articles/I03-real-estate/) | I03 | **1** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) |
+| [医药生物](./articles/I04-pharma/) | I04 | **1** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) |
 | [电子半导体](./articles/I05-semiconductor/) | I05 | **1** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) |
-| [新能源](./articles/I06-new-energy/) | I06 | — | 光伏、锂电、储能、新能源车 | — |
-| [消费](./articles/I07-consumer/) | I07 | — | 白酒、食品饮料、家电 | — |
-| [周期](./articles/I08-cyclical/) | I08 | — | 钢铁、煤炭、化工、有色 | — |
-| [TMT](./articles/I09-tmt/) | I09 | — | 互联网、软件、传媒、通信 | — |
-| [制造](./articles/I10-manufacturing/) | I10 | — | 机械、汽车、军工、电力设备 | — |
+| [新能源](./articles/I06-new-energy/) | I06 | **1** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) |
+| [消费](./articles/I07-consumer/) | I07 | **1** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) |
+| [周期](./articles/I08-cyclical/) | I08 | **1** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) |
+| [TMT](./articles/I09-tmt/) | I09 | **1** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) |
+| [制造](./articles/I10-manufacturing/) | I10 | **1** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) |
 
 #### C - 个股案例（Case Studies）
 
 具体股票的深度量化评分分析
 
-| 子分类 | 代码 | 文章数 | 说明 |
-|--------|------|:------:|------|
-| [沪深300成分](./articles/C01-hs300/) | C01 | — | 大盘股深度分析 |
-| [中证500成分](./articles/C02-zz500/) | C02 | — | 中盘股深度分析 |
-| [创业板指](./articles/C03-chinext/) | C03 | — | 成长股深度分析 |
-| [科创板](./articles/C04-star/) | C04 | — | 硬科技企业分析 |
-| [北交所](./articles/C05-bse/) | C05 | — | 专精特新企业分析 |
+| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+|--------|------|:------:|------|---------|
+| [沪深300成分](./articles/C01-hs300/) | C01 | **1** | 大盘股深度分析 | [分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md) |
+| [中证500成分](./articles/C02-zz500/) | C02 | **1** | 中盘股深度分析 | [分析框架](./articles/C02-zz500/C02-01-zz500-component-analysis.md) |
+| [创业板指](./articles/C03-chinext/) | C03 | **1** | 成长股深度分析 | [分析框架](./articles/C03-chinext/C03-01-chinext-component-analysis.md) |
+| [科创板](./articles/C04-star/) | C04 | **1** | 硬科技企业分析 | [分析框架](./articles/C04-star/C04-01-star-market-analysis.md) |
+| [北交所](./articles/C05-bse/) | C05 | **1** | 专精特新企业分析 | [分析框架](./articles/C05-bse/C05-01-bse-enterprise-analysis.md) |
 
 #### R - 研究方法论（Research Methods）
 
 研究工具、方法、思路与学术随笔
 
-| 子分类 | 代码 | 文章数 | 说明 |
-|--------|------|:------:|------|
-| [研究工具](./articles/R01-tools/) | R01 | — | 数据源、Python库、可视化工具 |
-| [数据处理](./articles/R02-data-processing/) | R02 | — | 数据清洗、特征工程、标准化 |
-| [回测方法](./articles/R03-backtesting/) | R03 | — | 回测框架、评价指标、过拟合防范 |
-| [研究随笔](./articles/R04-essays/) | R04 | — | 投资感悟、市场观察、失败总结 |
-| [文献综述](./articles/R05-literature/) | R05 | — | 经典论文解读、学术前沿 |
+| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+|--------|------|:------:|------|---------|
+| [研究工具](./articles/R01-tools/) | R01 | **1** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) |
+| [数据处理](./articles/R02-data-processing/) | R02 | **1** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) |
+| [回测方法](./articles/R03-backtesting/) | R03 | **1** | 回测框架、评价指标、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) |
+| [研究随笔](./articles/R04-essays/) | R04 | **1** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) |
+| [文献综述](./articles/R05-literature/) | R05 | **1** | 经典论文解读、学术前沿 | [文献综述与学术前沿](./articles/R05-literature/R05-01-literature-review-and-frontier.md) |
 
 ---
 
@@ -132,19 +149,19 @@
 
 | 读者类型 | 推荐阅读 | 说明 |
 |---------|---------|------|
-| **初学者** | 模型理论（M系列）→ 行业研究（I系列） | 先理解方法论，再看行业应用 |
-| **行业研究员** | 行业研究（I系列）→ 个股案例（C系列） | 关注特定行业的分析框架 |
-| **量化开发者** | 研究方法论（R系列）→ 模型理论（M系列） | 关注工具、数据和回测方法 |
-| **投资者** | 个股案例（C系列）→ 行业研究（I系列） | 直接查看投资标的分析 |
+| **初学者** | [模型总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) → [基本面引擎](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) → [行业研究](./articles/I01-banking/) | 先理解方法论，再看行业应用 |
+| **行业研究员** | [行业研究](./articles/I01-banking/) → [个股案例](./articles/C01-hs300/) | 关注特定行业的分析框架 |
+| **量化开发者** | [研究工具](./articles/R01-tools/) → [数据处理](./articles/R02-data-processing/) → [回测方法](./articles/R03-backtesting/) | 关注工具、数据和回测方法 |
+| **投资者** | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) → [个股案例](./articles/C01-hs300/) → [行业研究](./articles/I01-banking/) | 直接查看投资标的分析 |
 
 #### 按投资场景选择
 
 | 投资场景 | 推荐文章 | 说明 |
 |---------|---------|------|
 | **行业配置** | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) | 电子行业五大细分赛道对比分析 |
-| **个股选择** | 个股案例（C系列） | 具体股票的深度量化评分 |
-| **模型构建** | 模型理论（M系列） | 学习双引擎四层融合模型 |
-| **工具方法** | 研究方法论（R系列） | 数据处理、回测框架等 |
+| **个股选择** | [沪深300分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md) | 大盘蓝筹的量化评估与选股策略 |
+| **模型构建** | [模型架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) | 学习双引擎四层融合模型 |
+| **工具方法** | [研究工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) | 数据处理、回测框架等 |
 
 #### 文章难度标识
 
@@ -164,59 +181,45 @@
 dao-quant-research/
 ├── README.md                          # 本文件：仓库首页
 ├── WRITING-GUIDELINES.md              # 写作规范（必读）
+├── COMMIT-GUIDELINES.md               # 提交规范
 ├── LICENSE                            # MIT 许可证
 ├── CITATION.cff                       # 引用信息
 ├── .gitignore                         # Git 忽略规则
 │
 ├── articles/                          # 📖 研究文章（核心目录）
-│   ├── M01-model-overview/            # 模型总览
-│   ├── M02-fundamental-engine/        # 基本面引擎
-│   ├── M03-volume-price-engine/       # 量价引擎
-│   ├── M04-risk-control/              # 风控引擎
-│   ├── M05-fusion-algorithm/          # 融合算法
-│   ├── M06-factor-validation/         # 因子检验
-│   ├── M07-model-iteration/           # 模型迭代
-│   ├── I01-banking/                   # 银行业
-│   ├── I02-nonbank-finance/           # 非银金融
-│   ├── I03-real-estate/               # 房地产
-│   ├── I04-pharma/                    # 医药生物
-│   ├── I05-semiconductor/             # 电子半导体
-│   ├── I06-new-energy/                # 新能源
-│   ├── I07-consumer/                  # 消费
-│   ├── I08-cyclical/                  # 周期
-│   ├── I09-tmt/                       # TMT
-│   ├── I10-manufacturing/             # 制造
-│   ├── C01-hs300/                     # 沪深300成分股
-│   ├── C02-zz500/                     # 中证500成分股
-│   ├── C03-chinext/                   # 创业板指
-│   ├── C04-star/                      # 科创板
-│   ├── C05-bse/                       # 北交所
-│   ├── R01-tools/                     # 研究工具
-│   ├── R02-data-processing/           # 数据处理
-│   ├── R03-backtesting/               # 回测方法
-│   ├── R04-essays/                    # 研究随笔
-│   └── R05-literature/                # 文献综述
-│
-├── assets/                            # 🖼️ 文章资源
-│   ├── figures/                       # 图表图片
-│   │   ├── M01/                       # 按分类存放
-│   │   ├── M02/
-│   │   └── ...
-│   └── tables/                        # 数据表格
-│       ├── M01/
-│       └── ...
-│
-├── data/                              # 📊 研究数据（不纳入版本控制）
-│   └── .gitkeep
+│   ├── M01-model-overview/            # 模型总览 (1篇)
+│   ├── M02-fundamental-engine/        # 基本面引擎 (1篇)
+│   ├── M03-volume-price-engine/       # 量价引擎 (1篇)
+│   ├── M04-risk-control/              # 风控引擎 (1篇)
+│   ├── M05-fusion-algorithm/          # 融合算法 (1篇)
+│   ├── M06-factor-validation/         # 因子检验 (1篇)
+│   ├── M07-model-iteration/           # 模型迭代 (1篇)
+│   ├── I01-banking/                   # 银行业 (1篇)
+│   ├── I02-nonbank-finance/           # 非银金融 (1篇)
+│   ├── I03-real-estate/               # 房地产 (1篇)
+│   ├── I04-pharma/                    # 医药生物 (1篇)
+│   ├── I05-semiconductor/             # 电子半导体 (1篇)
+│   ├── I06-new-energy/                # 新能源 (1篇)
+│   ├── I07-consumer/                  # 消费 (1篇)
+│   ├── I08-cyclical/                  # 周期 (1篇)
+│   ├── I09-tmt/                       # TMT (1篇)
+│   ├── I10-manufacturing/             # 制造 (1篇)
+│   ├── C01-hs300/                     # 沪深300成分股 (1篇)
+│   ├── C02-zz500/                     # 中证500成分股 (1篇)
+│   ├── C03-chinext/                   # 创业板指 (1篇)
+│   ├── C04-star/                      # 科创板 (1篇)
+│   ├── C05-bse/                       # 北交所 (1篇)
+│   ├── R01-tools/                     # 研究工具 (1篇)
+│   ├── R02-data-processing/           # 数据处理 (1篇)
+│   ├── R03-backtesting/               # 回测方法 (1篇)
+│   ├── R04-essays/                    # 研究随笔 (1篇)
+│   └── R05-literature/                # 文献综述 (1篇)
 │
 ├── templates/                         # 📝 文章模板
-│   ├── article-template.md            # 标准文章模板
-│   └── series-template.md             # 系列文章模板
+│   └── article-template.md            # 标准文章模板
 │
-└── scripts/                           # 🔧 辅助脚本
-    ├── generate-index.py              # 生成文章索引
-    ├── check-frontmatter.py           # 检查 Frontmatter
-    └── update-readme.py               # 更新 README 目录
+└── data/                              # 📊 研究数据（不纳入版本控制）
+    └── .gitkeep
 ```
 
 ---
@@ -232,11 +235,12 @@ dao-quant-research/
 ### 对于贡献者
 
 1. **阅读写作规范**：[WRITING-GUIDELINES.md](./WRITING-GUIDELINES.md)
-2. **复制文章模板**：[templates/article-template.md](./templates/article-template.md)
-3. **选择分类目录**：根据内容选择 `articles/` 下的对应子目录
-4. **按规范命名文件**：`{分类代码}-{序号}-{kebab-case标题}.md`
-5. **填写 Frontmatter**：所有必填字段必须完整
-6. **质量检查**：对照规范中的检查清单自查
+2. **阅读提交规范**：[COMMIT-GUIDELINES.md](./COMMIT-GUIDELINES.md)
+3. **复制文章模板**：[templates/article-template.md](./templates/article-template.md)
+4. **选择分类目录**：根据内容选择 `articles/` 下的对应子目录
+5. **按规范命名文件**：`{分类代码}-{序号}-{kebab-case标题}.md`
+6. **填写 Frontmatter**：所有必填字段必须完整
+7. **质量检查**：对照规范中的检查清单自查
 
 ---
 
@@ -253,13 +257,15 @@ C01-05-pingan-bank.md              # 个股案例-平安银行
 ```yaml
 ---
 title: "文章标题"
-date: "2025-01-15"
+date: "2026-05-20"
 author: "laozdao"
 category: "M01"                       # 分类代码
 tags: ["标签1", "标签2", "标签3"]
 status: "published"                   # draft/published/archived/updated
 version: "1.0"
 summary: "100-200字摘要"
+difficulty: "intermediate"            # beginner/intermediate/advanced
+reading_time: 30                      # 预估阅读时间（分钟）
 ---
 ```
 
@@ -288,7 +294,7 @@ summary: "100-200字摘要"
 ### BibTeX
 
 ```bibtex
-@misc{laozdao2025daoquant,
+@misc{laozdao2026daoquant,
   author       = {laozdao},
   title        = {Dao Quant Research: A-Share Quantitative Analysis Study},
   year         = {2026},
