@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research in your work, please cite it as below."
+authors:
+  - family-names: "laozdao"
+    given-names: ""
+    nickname: "老子道"
+    website: "https://github.com/laozdao"
+title: "Dao Quant Research: A-Share Quantitative Analysis Study"
+version: "1.0.0"
+date-released: "2026-01-15"
+url: "https://github.com/laozdao/dao-quant-research"
+keywords:
+  - "quantitative finance"
+  - "A-share"
+  - "multi-factor model"
+  - "stock analysis"
+  - "fundamental analysis"
+license: MIT

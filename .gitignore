@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data (研究数据不纳入版本控制)
+data/
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Temp
+*.tmp
+*.bak
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Output
+dist/
+build/
