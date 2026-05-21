@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **55** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **81** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,15 +57,15 @@
 
 ### 📊 统计概览
 
-> 共收录 **55** 篇研究文章（每目录平均2篇），覆盖 **27** 个子分类，按 **4 大板块** 组织
+> 共收录 **81** 篇研究文章（每目录3篇），覆盖 **27** 个子分类，按 **4 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
-| **M - 模型理论** | 7 | 14 | 2篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | 20 | 2篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
-| **C - 个股案例** | 5 | 10 | 2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | 11 | 2.2篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **总计** | **27** | **55** | **2篇** | 覆盖量化投资全流程 |
+| **M - 模型理论** | 7 | 21 | 3篇 | 双引擎四层模型完整解析 |
+| **I - 行业研究** | 10 | 30 | 3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
+| **R - 研究方法论** | 5 | 15 | 3篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **总计** | **27** | **81** | **3篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -95,56 +95,56 @@
 
 关于双引擎四层融合模型的理论阐述与方法论
 
-| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [模型总览](./articles/M01-model-overview/) | M01 | **2** | 模型架构、设计哲学、整体介绍 | [架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) · [数学原理](./articles/M01-model-overview/M01-02-dual-engine-four-layer-math.md) |
-| [基本面引擎](./articles/M02-fundamental-engine/) | M02 | **2** | 盈利能力、成长能力、估值、财务健康 | [引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) · [ROE杜邦分析](./articles/M02-fundamental-engine/M02-02-roe-dupont-analysis.md) |
-| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **2** | 趋势分析、量价配合、资金流向、筹码分布 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) |
-| [风控引擎](./articles/M04-risk-control/) | M04 | **2** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) · [VaR模型](./articles/M04-risk-control/M04-02-var-model-drawdown-control.md) |
-| [融合算法](./articles/M05-fusion-algorithm/) | M05 | **2** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) · [动态权重](./articles/M05-fusion-algorithm/M05-02-dynamic-weight-adaptive-scoring.md) |
-| [因子检验](./articles/M06-factor-validation/) | M06 | **2** | 单因子有效性、IC测试、分层回测 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) |
-| [模型迭代](./articles/M07-model-iteration/) | M07 | **2** | 版本更新、改进记录、回测对比 | [迭代记录](./articles/M07-model-iteration/M07-01-model-iteration-records.md) · [回测绩效](./articles/M07-model-iteration/M07-02-backtest-performance-improvement.md) |
+| [模型总览](./articles/M01-model-overview/) | M01 | **3** | 模型架构、设计哲学、整体介绍 | [架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) · [数学原理](./articles/M01-model-overview/M01-02-dual-engine-four-layer-math.md) · [回测绩效](./articles/M01-model-overview/M01-03-model-backtest-performance-evaluation.md) |
+| [基本面引擎](./articles/M02-fundamental-engine/) | M02 | **3** | 盈利能力、成长能力、估值、财务健康 | [引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) · [ROE杜邦分析](./articles/M02-fundamental-engine/M02-02-roe-dupont-analysis.md) · [成长因子](./articles/M02-fundamental-engine/M02-03-growth-factor-peg-valuation.md) |
+| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **3** | 趋势分析、量价配合、资金流向、筹码分布 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) |
+| [风控引擎](./articles/M04-risk-control/) | M04 | **3** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) · [VaR模型](./articles/M04-risk-control/M04-02-var-model-drawdown-control.md) · [集中度流动性](./articles/M04-risk-control/M04-03-concentration-liquidity-risk.md) |
+| [融合算法](./articles/M05-fusion-algorithm/) | M05 | **3** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) · [动态权重](./articles/M05-fusion-algorithm/M05-02-dynamic-weight-adaptive-scoring.md) · [机器学习融合](./articles/M05-fusion-algorithm/M05-03-machine-learning-factor-fusion.md) |
+| [因子检验](./articles/M06-factor-validation/) | M06 | **3** | 单因子有效性、IC测试、分层回测 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) · [多因子组合](./articles/M06-factor-validation/M06-03-multi-factor-portfolio-optimization.md) |
+| [模型迭代](./articles/M07-model-iteration/) | M07 | **3** | 版本更新、改进记录、回测对比 | [迭代记录](./articles/M07-model-iteration/M07-01-model-iteration-records.md) · [回测绩效](./articles/M07-model-iteration/M07-02-backtest-performance-improvement.md) · [AI应用](./articles/M07-model-iteration/M07-03-model-future-ai-applications.md) |
 
 #### I - 行业研究（Industry Research）
 
 特定行业的量化分析框架与案例研究
 
-| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [银行业](./articles/I01-banking/) | I01 | **2** | 银行板块因子适配、特色指标 | [分析框架](./articles/I01-banking/I01-01-banking-quant-framework.md) · [估值股息](./articles/I01-banking/I01-02-banking-valuation-dividend-strategy.md) |
-| [非银金融](./articles/I02-nonbank-finance/) | I02 | **2** | 保险、证券、多元金融 | [行业分析](./articles/I02-nonbank-finance/I02-01-nonbank-finance-analysis.md) · [内含价值](./articles/I02-nonbank-finance/I02-02-insurance-embedded-value-assessment.md) |
-| [房地产](./articles/I03-real-estate/) | I03 | **2** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) · [周期择时](./articles/I03-real-estate/I03-02-real-estate-cycle-timing-strategy.md) |
-| [医药生物](./articles/I04-pharma/) | I04 | **2** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) |
-| [电子半导体](./articles/I05-semiconductor/) | I05 | **2** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) |
-| [新能源](./articles/I06-new-energy/) | I06 | **2** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) |
-| [消费](./articles/I07-consumer/) | I07 | **2** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) |
-| [周期](./articles/I08-cyclical/) | I08 | **2** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) |
-| [TMT](./articles/I09-tmt/) | I09 | **2** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) |
-| [制造](./articles/I10-manufacturing/) | I10 | **2** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) |
+| [银行业](./articles/I01-banking/) | I01 | **3** | 银行板块因子适配、特色指标 | [分析框架](./articles/I01-banking/I01-01-banking-quant-framework.md) · [估值股息](./articles/I01-banking/I01-02-banking-valuation-dividend-strategy.md) · [区域行vs股份行](./articles/I01-banking/I01-03-regional-vs-joint-stock-banks.md) |
+| [非银金融](./articles/I02-nonbank-finance/) | I02 | **3** | 保险、证券、多元金融 | [行业分析](./articles/I02-nonbank-finance/I02-01-nonbank-finance-analysis.md) · [内含价值](./articles/I02-nonbank-finance/I02-02-insurance-embedded-value-assessment.md) · [券商经纪业务](./articles/I02-nonbank-finance/I02-03-brokerage-business-cycle.md) |
+| [房地产](./articles/I03-real-estate/) | I03 | **3** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) · [周期择时](./articles/I03-real-estate/I03-02-real-estate-cycle-timing-strategy.md) · [REITs投资](./articles/I03-real-estate/I03-03-reits-infrastructure-investment.md) |
+| [医药生物](./articles/I04-pharma/) | I04 | **3** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) · [医疗器械](./articles/I04-pharma/I04-03-medical-device-innovation.md) |
+| [电子半导体](./articles/I05-semiconductor/) | I05 | **3** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-investment-outlook.md) |
+| [新能源](./articles/I06-new-energy/) | I06 | **3** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) |
+| [消费](./articles/I07-consumer/) | I07 | **3** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) |
+| [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
+| [TMT](./articles/I09-tmt/) | I09 | **3** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) |
+| [制造](./articles/I10-manufacturing/) | I10 | **3** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) |
 
 #### C - 个股案例（Case Studies）
 
 具体股票的深度量化评分分析
 
-| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [沪深300成分](./articles/C01-hs300/) | C01 | **2** | 大盘股深度分析 | [分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md) · [贵州茅台](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md) |
-| [中证500成分](./articles/C02-zz500/) | C02 | **2** | 中盘股深度分析 | [分析框架](./articles/C02-zz500/C02-01-zz500-component-analysis.md) · [宁德时代](./articles/C02-zz500/C02-02-catl-quantitative-analysis.md) |
-| [创业板指](./articles/C03-chinext/) | C03 | **2** | 成长股深度分析 | [分析框架](./articles/C03-chinext/C03-01-chinext-component-analysis.md) · [迈瑞医疗](./articles/C03-chinext/C03-02-mindray-quantitative-analysis.md) |
-| [科创板](./articles/C04-star/) | C04 | **2** | 硬科技企业分析 | [分析框架](./articles/C04-star/C04-01-star-market-analysis.md) · [中芯国际](./articles/C04-star/C04-02-smic-quantitative-analysis.md) |
-| [北交所](./articles/C05-bse/) | C05 | **2** | 专精特新企业分析 | [分析框架](./articles/C05-bse/C05-01-bse-enterprise-analysis.md) · [贝特瑞](./articles/C05-bse/C05-02-btr-quantitative-analysis.md) |
+| [沪深300成分](./articles/C01-hs300/) | C01 | **3** | 大盘股深度分析 | [分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md) · [贵州茅台](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md) · [平安银行](./articles/C01-hs300/C01-03-ping-an-deep-analysis.md) |
+| [中证500成分](./articles/C02-zz500/) | C02 | **3** | 中盘股深度分析 | [分析框架](./articles/C02-zz500/C02-01-zz500-component-analysis.md) · [宁德时代](./articles/C02-zz500/C02-02-catl-quantitative-analysis.md) · [隆基绿能](./articles/C02-zz500/C02-03-longi-green-energy-deep-analysis.md) |
+| [创业板指](./articles/C03-chinext/) | C03 | **3** | 成长股深度分析 | [分析框架](./articles/C03-chinext/C03-01-chinext-component-analysis.md) · [迈瑞医疗](./articles/C03-chinext/C03-02-mindray-quantitative-analysis.md) · [东方财富](./articles/C03-chinext/C03-03-eastmoney-deep-analysis.md) |
+| [科创板](./articles/C04-star/) | C04 | **3** | 硬科技企业分析 | [分析框架](./articles/C04-star/C04-01-star-market-analysis.md) · [中芯国际](./articles/C04-star/C04-02-smic-quantitative-analysis.md) · [寒武纪](./articles/C04-star/C04-03-cambricon-deep-analysis.md) |
+| [北交所](./articles/C05-bse/) | C05 | **3** | 专精特新企业分析 | [分析框架](./articles/C05-bse/C05-01-bse-enterprise-analysis.md) · [贝特瑞](./articles/C05-bse/C05-02-btr-quantitative-analysis.md) · [吉林碳谷](./articles/C05-bse/C05-03-jilin-carbon-deep-analysis.md) |
 
 #### R - 研究方法论（Research Methods）
 
 研究工具、方法、思路与学术随笔
 
-| 子分类 | 代码 | 文章数 | 说明 | 首篇文章 |
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [研究工具](./articles/R01-tools/) | R01 | **2** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) · [Python工具链](./articles/R01-tools/R01-02-python-quant-toolchain.md) |
-| [数据处理](./articles/R02-data-processing/) | R02 | **2** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) |
-| [回测方法](./articles/R03-backtesting/) | R03 | **2** | 回测框架、评价指标、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) |
-| [研究随笔](./articles/R04-essays/) | R04 | **2** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) |
-| [文献综述](./articles/R05-literature/) | R05 | **2** | 经典论文解读、学术前沿 | [文献综述与学术前沿](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) |
+| [研究工具](./articles/R01-tools/) | R01 | **3** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) · [Python工具链](./articles/R01-tools/R01-02-python-quant-toolchain.md) · [量化平台对比](./articles/R01-tools/R01-03-quant-platform-comparison.md) |
+| [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
+| [回测方法](./articles/R03-backtesting/) | R03 | **3** | 回测框架、评价指标、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) |
+| [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
+| [文献综述](./articles/R05-literature/) | R05 | **3** | 经典论文解读、学术前沿 | [文献综述与学术前沿](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) |
 
 ---
 
