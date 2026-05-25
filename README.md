@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **83** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **84** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,15 +57,15 @@
 
 ### 📊 统计概览
 
-> 共收录 **83** 篇研究文章，覆盖 **27** 个子分类，按 **4 大板块** 组织
+> 共收录 **84** 篇研究文章，覆盖 **27** 个子分类，按 **4 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
-| **M - 模型理论** | 7 | 21 | 3篇 | 双引擎四层模型完整解析 |
+| **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | 30 | 3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **总计** | **27** | **83** | **3篇** | 覆盖量化投资全流程 |
+| **总计** | **27** | **84** | **3篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -99,7 +99,7 @@
 |--------|------|:------:|------|---------|
 | [模型总览](./articles/M01-model-overview/) | M01 | **3** | 模型架构、设计哲学、整体介绍 | [架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) · [数学原理](./articles/M01-model-overview/M01-02-dual-engine-four-layer-math.md) · [回测绩效](./articles/M01-model-overview/M01-03-model-backtest-performance-evaluation.md) |
 | [基本面引擎](./articles/M02-fundamental-engine/) | M02 | **3** | 盈利能力、成长能力、估值、财务健康 | [引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) · [ROE杜邦分析](./articles/M02-fundamental-engine/M02-02-roe-dupont-analysis.md) · [成长因子](./articles/M02-fundamental-engine/M02-03-growth-factor-peg-valuation.md) |
-| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **3** | 趋势分析、量价配合、资金流向、筹码分布 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) |
+| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **4** | 趋势分析、量价配合、资金流向、筹码分布 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) · [趋势分析实践](./articles/M03-volume-price-engine/M03-04-trend-analysis-best-practices.md) |
 | [风控引擎](./articles/M04-risk-control/) | M04 | **3** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) · [VaR模型](./articles/M04-risk-control/M04-02-var-model-drawdown-control.md) · [集中度流动性](./articles/M04-risk-control/M04-03-concentration-liquidity-risk.md) |
 | [融合算法](./articles/M05-fusion-algorithm/) | M05 | **3** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) · [动态权重](./articles/M05-fusion-algorithm/M05-02-dynamic-weight-adaptive-scoring.md) · [机器学习融合](./articles/M05-fusion-algorithm/M05-03-machine-learning-factor-fusion.md) |
 | [因子检验](./articles/M06-factor-validation/) | M06 | **3** | 单因子有效性、IC测试、分层回测 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) · [多因子组合](./articles/M06-factor-validation/M06-03-multi-factor-portfolio-optimization.md) |
