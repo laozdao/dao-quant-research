@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **85** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **86** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **85** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **86** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,8 +65,8 @@
 | **I - 行业研究** | 10 | 30 | 3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **O - 开源项目** | 1 | 1 | 1篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **85** | **3篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 1 | 2 | 2篇 | 量化交易开源项目深度解析 |
+| **总计** | **28** | **86** | **3篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -88,6 +88,7 @@
 | **[贵州茅台深度量化分析](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 40min | 品牌价值/盈利能力/现金流全面评估 |
 | **[Fama-French五因子模型详解](./articles/R05-literature/R05-02-fama-french-five-factor.md)** | R05 | 2026-05-20 | 🔴 高级 | 40min | 市场/规模/价值/盈利/投资因子构建与实证 |
 | **[TradingAgents多智能体LLM交易框架](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | TauricResearch开源的多Agent金融交易框架深度解析 |
+| **[Microsoft Qlib AI量化平台](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 40min | 微软开源的AI驱动量化投资平台，完整ML流水线解析 |
 
 ---
 
@@ -154,7 +155,7 @@
 
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [开源项目](./articles/O01-open-source-projects/) | O01 | **1** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) |
+| [开源项目](./articles/O01-open-source-projects/) | O01 | **2** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) |
 
 ---
 
