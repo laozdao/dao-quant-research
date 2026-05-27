@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **84** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **85** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **84** 篇研究文章，覆盖 **27** 个子分类，按 **4 大板块** 组织
+> 共收录 **85** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,7 +65,8 @@
 | **I - 行业研究** | 10 | 30 | 3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **总计** | **27** | **84** | **3篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 1 | 1 | 1篇 | 量化交易开源项目深度解析 |
+| **总计** | **28** | **85** | **3篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -86,6 +87,7 @@
 | **[Python量化投资工具链实战](./articles/R01-tools/R01-02-python-quant-toolchain.md)** | R01 | 2026-05-20 | 🟡 中级 | 35min | Tushare/AkShare/Backtrader实战应用 |
 | **[贵州茅台深度量化分析](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 40min | 品牌价值/盈利能力/现金流全面评估 |
 | **[Fama-French五因子模型详解](./articles/R05-literature/R05-02-fama-french-five-factor.md)** | R05 | 2026-05-20 | 🔴 高级 | 40min | 市场/规模/价值/盈利/投资因子构建与实证 |
+| **[TradingAgents多智能体LLM交易框架](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | TauricResearch开源的多Agent金融交易框架深度解析 |
 
 ---
 
@@ -145,6 +147,14 @@
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
 | [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **4** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) |
+
+#### O - 开源项目（Open Source Projects）
+
+量化交易领域优秀开源项目的深度解析与评估
+
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
+|--------|------|:------:|------|---------|
+| [开源项目](./articles/O01-open-source-projects/) | O01 | **1** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) |
 
 ---
 
@@ -218,7 +228,8 @@ dao-quant-research/
 │   ├── R02-data-processing/           # 数据处理 (1篇)
 │   ├── R03-backtesting/               # 回测方法 (1篇)
 │   ├── R04-essays/                    # 研究随笔 (1篇)
-│   └── R05-literature/                # 文献综述 (1篇)
+│   ├── R05-literature/                # 文献综述 (1篇)
+│   ├── O01-open-source-projects/      # 开源项目 (1篇)
 │
 ├── templates/                         # 📝 文章模板
 │   └── article-template.md            # 标准文章模板
