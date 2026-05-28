@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **86** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **87** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **86** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **87** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | 30 | 3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | 31 | 3.1篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 1 | 2 | 2篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **86** | **3篇** | 覆盖量化投资全流程 |
+| **总计** | **28** | **87** | **3.1篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -88,6 +88,7 @@
 | **[贵州茅台深度量化分析](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 40min | 品牌价值/盈利能力/现金流全面评估 |
 | **[Fama-French五因子模型详解](./articles/R05-literature/R05-02-fama-french-five-factor.md)** | R05 | 2026-05-20 | 🔴 高级 | 40min | 市场/规模/价值/盈利/投资因子构建与实证 |
 | **[TradingAgents多智能体LLM交易框架](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | TauricResearch开源的多Agent金融交易框架深度解析 |
+| **[长鑫科技IPO过会：国产存储龙头上市影响量化分析](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md)** | I05 | 2026-05-28 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，对科创板史上第二大IPO进行系统性量化分析，综合评分63.45分，评级C（中性） |
 | **[Microsoft Qlib AI量化平台](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 40min | 微软开源的AI驱动量化投资平台，完整ML流水线解析 |
 
 ---
@@ -118,7 +119,7 @@
 | [非银金融](./articles/I02-nonbank-finance/) | I02 | **3** | 保险、证券、多元金融 | [行业分析](./articles/I02-nonbank-finance/I02-01-nonbank-finance-analysis.md) · [内含价值](./articles/I02-nonbank-finance/I02-02-insurance-embedded-value-assessment.md) · [券商经纪业务](./articles/I02-nonbank-finance/I02-03-brokerage-business-cycle.md) |
 | [房地产](./articles/I03-real-estate/) | I03 | **3** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) · [周期择时](./articles/I03-real-estate/I03-02-real-estate-cycle-timing-strategy.md) · [REITs投资](./articles/I03-real-estate/I03-03-reits-infrastructure-investment.md) |
 | [医药生物](./articles/I04-pharma/) | I04 | **3** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) · [医疗器械](./articles/I04-pharma/I04-03-medical-device-innovation.md) |
-| [电子半导体](./articles/I05-semiconductor/) | I05 | **3** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-investment-outlook.md) |
+| [电子半导体](./articles/I05-semiconductor/) | I05 | **4** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-computing-demand.md) · [长鑫科技IPO](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md) |
 | [新能源](./articles/I06-new-energy/) | I06 | **3** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) |
 | [消费](./articles/I07-consumer/) | I07 | **3** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
