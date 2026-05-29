@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **88** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **94** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **88** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **94** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,8 +65,8 @@
 | **I - 行业研究** | 10 | 32 | 3.2篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **O - 开源项目** | 1 | 2 | 2篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **88** | **3.1篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
+| **总计** | **28** | **94** | **3.4篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -90,7 +90,14 @@
 | **[TradingAgents多智能体LLM交易框架](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | TauricResearch开源的多Agent金融交易框架深度解析 |
 | **[长鑫科技IPO过会：国产存储龙头上市影响量化分析](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md)** | I05 | 2026-05-28 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，对科创板史上第二大IPO进行系统性量化分析，综合评分63.45分，评级C（中性） |
 | **[华为韬(τ)定律深度解析：后摩尔时代的芯片产业新范式](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md)** | I05 | 2026-05-29 | 🔴 高级 | 40min | 基于Dao Quant双引擎四层融合模型，深度解析华为韬定律技术原理与产业影响，识别先进封装、Chiplet投资机会，综合评分67.5分，评级B（推荐） |
-| **[Microsoft Qlib AI量化平台](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 40min | 微软开源的AI驱动量化投资平台，完整ML流水线解析 |
+| **[Backtrader回测框架](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 21.7k+ Stars，最受欢迎的Python量化回测框架之王 |
+| **[Freqtrade加密货币机器人](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 32k+ Stars，最流行的开源加密货币量化交易机器人 |
+| **[StockSharp C#交易平台](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | C#开发的算法交易平台，支持股票/外汇/加密货币多市场 |
+| **[Riskfolio-Lib组合优化](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md)** | O01 | 2026-05-27 | 🟡 中级 | 30min | Python投资组合优化库，现代投资组合理论实现 |
+| **[FinRL深度强化学习](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md)** | O01 | 2026-05-27 | 🔴 高级 | 40min | AI4Finance出品，深度强化学习量化交易框架 |
+| **[TradeMaster强化学习平台](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md)** | O01 | 2026-05-27 | 🔴 高级 | 35min | NTU出品，专注强化学习的量化交易平台 |
+| **[VN.PY国产量化框架](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 国内最流行的Python量化交易框架，支持CTP接口 |
+| **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
 
 ---
 
@@ -157,7 +164,7 @@
 
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [开源项目](./articles/O01-open-source-projects/) | O01 | **2** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) |
+| [开源项目](./articles/O01-open-source-projects/) | O01 | **10** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) |
 
 ---
 
