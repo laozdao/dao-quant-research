@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **94** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **95** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **94** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **95** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | 32 | 3.2篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | 33 | 3.3篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **94** | **3.4篇** | 覆盖量化投资全流程 |
+| **总计** | **28** | **95** | **3.4篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -97,6 +97,7 @@
 | **[FinRL深度强化学习](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md)** | O01 | 2026-05-27 | 🔴 高级 | 40min | AI4Finance出品，深度强化学习量化交易框架 |
 | **[TradeMaster强化学习平台](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md)** | O01 | 2026-05-27 | 🔴 高级 | 35min | NTU出品，专注强化学习的量化交易平台 |
 | **[VN.PY国产量化框架](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 国内最流行的Python量化交易框架，支持CTP接口 |
+| **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
 | **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
 
 ---
@@ -128,7 +129,7 @@
 | [房地产](./articles/I03-real-estate/) | I03 | **3** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) · [周期择时](./articles/I03-real-estate/I03-02-real-estate-cycle-timing-strategy.md) · [REITs投资](./articles/I03-real-estate/I03-03-reits-infrastructure-investment.md) |
 | [医药生物](./articles/I04-pharma/) | I04 | **3** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) · [医疗器械](./articles/I04-pharma/I04-03-medical-device-innovation.md) |
 | [电子半导体](./articles/I05-semiconductor/) | I05 | **5** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-computing-demand.md) · [长鑫科技IPO](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md) · [华为韬定律](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md) |
-| [新能源](./articles/I06-new-energy/) | I06 | **3** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) |
+| [新能源](./articles/I06-new-energy/) | I06 | **4** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) · [算电协同](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md) |
 | [消费](./articles/I07-consumer/) | I07 | **3** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **3** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) |
