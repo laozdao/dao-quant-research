@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **96** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **97** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **96** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **97** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
-| **C - 个股案例** | 5 | 15 | 3篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
+| **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **96** | **3.4篇** | 覆盖量化投资全流程 |
+| **总计** | **28** | **97** | **3.5篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -97,6 +97,7 @@
 | **[FinRL深度强化学习](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md)** | O01 | 2026-05-27 | 🔴 高级 | 40min | AI4Finance出品，深度强化学习量化交易框架 |
 | **[TradeMaster强化学习平台](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md)** | O01 | 2026-05-27 | 🔴 高级 | 35min | NTU出品，专注强化学习的量化交易平台 |
 | **[VN.PY国产量化框架](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 国内最流行的Python量化交易框架，支持CTP接口 |
+| **[宁德时代凝聚态电池技术突破：500Wh/kg航空级电池的商业化之路](./articles/C02-zz500/C02-04-catl-condensed-battery-analysis.md)** | C02 | 2026-06-01 | 🔴 高级 | 40min | 基于Dao Quant双引擎四层融合模型，解析宁德时代凝聚态电池500Wh/kg技术原理，分析航空+汽车双轮驱动商业化路径，综合评分70.95分，评级B（推荐） |
 | **[城市更新十五五规划出炉：十五万亿级市场与投资机遇分析](./articles/I03-real-estate/I03-04-urban-renewal-15th-five-year-plan.md)** | I03 | 2026-05-31 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，解读城市更新十五五规划核心指标与15-20万亿市场空间，识别建筑、建材、地产、管网投资机会，综合评分65.8分，评级B（推荐） |
 | **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
 | **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
@@ -143,7 +144,7 @@
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
 | [沪深300成分](./articles/C01-hs300/) | C01 | **3** | 大盘股深度分析 | [分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md) · [贵州茅台](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md) · [平安银行](./articles/C01-hs300/C01-03-ping-an-deep-analysis.md) |
-| [中证500成分](./articles/C02-zz500/) | C02 | **3** | 中盘股深度分析 | [分析框架](./articles/C02-zz500/C02-01-zz500-component-analysis.md) · [宁德时代](./articles/C02-zz500/C02-02-catl-quantitative-analysis.md) · [隆基绿能](./articles/C02-zz500/C02-03-longi-green-energy-deep-analysis.md) |
+| [中证500成分](./articles/C02-zz500/) | C02 | **4** | 中盘股深度分析 | [分析框架](./articles/C02-zz500/C02-01-zz500-component-analysis.md) · [宁德时代](./articles/C02-zz500/C02-02-catl-quantitative-analysis.md) · [隆基绿能](./articles/C02-zz500/C02-03-longi-green-energy-deep-analysis.md) · [宁德时代凝聚态电池](./articles/C02-zz500/C02-04-catl-condensed-battery-analysis.md) |
 | [创业板指](./articles/C03-chinext/) | C03 | **3** | 成长股深度分析 | [分析框架](./articles/C03-chinext/C03-01-chinext-component-analysis.md) · [迈瑞医疗](./articles/C03-chinext/C03-02-mindray-quantitative-analysis.md) · [东方财富](./articles/C03-chinext/C03-03-eastmoney-deep-analysis.md) |
 | [科创板](./articles/C04-star/) | C04 | **3** | 硬科技企业分析 | [分析框架](./articles/C04-star/C04-01-star-market-analysis.md) · [中芯国际](./articles/C04-star/C04-02-smic-quantitative-analysis.md) · [寒武纪](./articles/C04-star/C04-03-cambricon-deep-analysis.md) |
 | [北交所](./articles/C05-bse/) | C05 | **3** | 专精特新企业分析 | [分析框架](./articles/C05-bse/C05-01-bse-enterprise-analysis.md) · [贝特瑞](./articles/C05-bse/C05-02-btr-quantitative-analysis.md) · [吉林碳谷](./articles/C05-bse/C05-03-jilin-carbon-deep-analysis.md) |
