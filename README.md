@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **101** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **103** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **101** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **103** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | 21 | 4.2篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **R - 研究方法论** | 5 | 23 | 4.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **101** | **3.6篇** | 覆盖量化投资全流程 |
+| **总计** | **28** | **103** | **3.7篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -104,7 +104,9 @@
 | **[CAPM资本资产定价模型详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md)** | R05 | 2026-06-01 | 🟡 中级 | 35min | 系统阐述CAPM理论基础、核心公式、Beta系数计算、假设条件及A股实证分析 |
 | **[CAPM模型Python实战指南](./articles/R05-literature/R05-06-CAPM-python-implementation.md)** | R05 | 2026-06-01 | 🟡 中级 | 40min | 基于Python实现CAPM完整分析流程，涵盖数据获取、Beta计算、Alpha分析与可视化 |
 | **[Fama-French多因子模型详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析三因子与五因子模型理论基础、因子构建方法、实证检验及A股应用 |
-| **[Fama-French多因子模型Python实战指南](./articles/R05-literature/R05-08-fama-french-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现Fama-French因子构建、回归分析、投资组合构建与回测 |
+| **[Fama-French多因子模型Python实战指南](./articles/R05-literature/R05-08-fama-french-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现Fama-French因子构建、回归分析，投资组合构建与回测 |
+| **[APT套利定价理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 40min | 深入解析APT理论基础、与CAPM比较、因子识别方法、实证检验及量化应用 |
+| **[APT套利定价理论Python实战指南](./articles/R05-literature/R05-10-apt-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 基于Python实现APT因子识别、载荷估计、Fama-MacBeth回归与套利策略 |
 
 ---
 
@@ -163,7 +165,7 @@
 | [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
 | [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
-| [文献综述](./articles/R05-literature/) | R05 | **8** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) |
+| [文献综述](./articles/R05-literature/) | R05 | **10** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) |
 
 #### O - 开源项目（Open Source Projects）
 
