@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **97** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **99** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **97** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **99** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 22 | 3.1篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | 17 | 3.4篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **R - 研究方法论** | 5 | 19 | 3.8篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **97** | **3.5篇** | 覆盖量化投资全流程 |
+| **总计** | **28** | **99** | **3.5篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -101,6 +101,8 @@
 | **[城市更新十五五规划出炉：十五万亿级市场与投资机遇分析](./articles/I03-real-estate/I03-04-urban-renewal-15th-five-year-plan.md)** | I03 | 2026-05-31 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，解读城市更新十五五规划核心指标与15-20万亿市场空间，识别建筑、建材、地产、管网投资机会，综合评分65.8分，评级B（推荐） |
 | **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
 | **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
+| **[CAPM资本资产定价模型详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md)** | R05 | 2026-06-01 | 🟡 中级 | 35min | 系统阐述CAPM理论基础、核心公式、Beta系数计算、假设条件及A股实证分析 |
+| **[CAPM模型Python实战指南](./articles/R05-literature/R05-06-CAPM-python-implementation.md)** | R05 | 2026-06-01 | 🟡 中级 | 40min | 基于Python实现CAPM完整分析流程，涵盖数据获取、Beta计算、Alpha分析与可视化 |
 
 ---
 
@@ -159,7 +161,7 @@
 | [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
 | [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
-| [文献综述](./articles/R05-literature/) | R05 | **4** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) |
+| [文献综述](./articles/R05-literature/) | R05 | **6** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) |
 
 #### O - 开源项目（Open Source Projects）
 
