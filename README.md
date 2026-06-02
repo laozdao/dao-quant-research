@@ -171,6 +171,15 @@
 | [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
+
+#### T - 技术工具指南（Technology Tools Guide）
+
+量化交易技术工具的详细介绍与使用指南
+
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
+|--------|------|:------:|------|---------|
+| [量化工具指南](./articles/T01-quant-tools-guide/) | T01 | **21** | 20个热门量化工具详细介绍 | [目录索引](./articles/T01-quant-tools-guide/T01-00-README.md) · [Python](./articles/T01-quant-tools-guide/T01-01-python.md) · [R语言](./articles/T01-quant-tools-guide/T01-02-r-language.md) · [pandas](./articles/T01-quant-tools-guide/T01-03-pandas.md) · [NumPy](./articles/T01-quant-tools-guide/T01-04-numpy.md) · [yfinance](./articles/T01-quant-tools-guide/T01-05-yfinance.md) · [Backtrader](./articles/T01-quant-tools-guide/T01-06-backtrader.md) · [vectorbt](./articles/T01-quant-tools-guide/T01-07-vectorbt.md) · [QuantConnect](./articles/T01-quant-tools-guide/T01-08-quantconnect-lean.md) · [scikit-learn](./articles/T01-quant-tools-guide/T01-09-scikit-learn.md) · [PyTorch](./articles/T01-quant-tools-guide/T01-10-pytorch.md) · [TensorFlow](./articles/T01-quant-tools-guide/T01-11-tensorflow.md) · [TA-Lib](./articles/T01-quant-tools-guide/T01-12-ta-lib.md) · [ccxt](./articles/T01-quant-tools-guide/T01-13-ccxt.md) · [IB API](./articles/T01-quant-tools-guide/T01-14-interactive-brokers-api.md) · [matplotlib](./articles/T01-quant-tools-guide/T01-15-matplotlib.md) · [Plotly](./articles/T01-quant-tools-guide/T01-16-plotly.md) · [InfluxDB](./articles/T01-quant-tools-guide/T01-17-influxdb.md) · [Redis](./articles/T01-quant-tools-guide/T01-18-redis.md) · [Kafka](./articles/T01-quant-tools-guide/T01-19-apache-kafka.md) · [Jupyter](./articles/T01-quant-tools-guide/T01-20-jupyter-notebook.md) |
+
 #### O - 开源项目（Open Source Projects）
 
 量化交易领域优秀开源项目的深度解析与评估
@@ -251,8 +260,9 @@ dao-quant-research/
 │   ├── R02-data-processing/           # 数据处理 (1篇)
 │   ├── R03-backtesting/               # 回测方法 (1篇)
 │   ├── R04-essays/                    # 研究随笔 (1篇)
-│   ├── R05-literature/                # 文献综述 (1篇)
-│   ├── O01-open-source-projects/      # 开源项目 (1篇)
+│   ├── R05-literature/                # 文献综述 (14篇)
+│   ├── T01-quant-tools-guide/         # 技术工具指南 (21篇)
+│   ├── O01-open-source-projects/      # 开源项目 (10篇)
 │
 ├── templates/                         # 📝 文章模板
 │   └── article-template.md            # 标准文章模板
