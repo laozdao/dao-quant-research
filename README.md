@@ -172,6 +172,24 @@
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
 
+
+#### E - 国内从业资格（Domestic Qualifications）
+
+与量化交易相关的国内从业资格考试与专业认证
+
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
+|--------|------|:------:|------|---------|
+| [国内资格](./articles/E01-domestic-qualifications/) | E01 | **7** | 证券/期货/基金/银行/CPA/保代 | [目录索引](./articles/E01-domestic-qualifications/E01-00-README.md) · [证券从业](./articles/E01-domestic-qualifications/E01-01-securities-qualification.md) · [期货从业](./articles/E01-domestic-qualifications/E01-02-futures-qualification.md) · [基金从业](./articles/E01-domestic-qualifications/E01-03-fund-qualification.md) · [银行从业](./articles/E01-domestic-qualifications/E01-04-banking-qualification.md) · [CPA](./articles/E01-domestic-qualifications/E01-05-cpa.md) · [保荐代表人](./articles/E01-domestic-qualifications/E01-06-sponsor-representative.md) |
+
+
+#### E - 国际资格认证（International Certifications）
+
+与量化交易相关的国际金融资格证书
+
+| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
+|--------|------|:------:|------|---------|
+| [国际认证](./articles/E02-international-certifications/) | E02 | **10** | CFA/FRM/CQF/CAIA/CMT/PRM等 | [CFA](./articles/E02-international-certifications/E02-01-cfa.md) · [FRM](./articles/E02-international-certifications/E02-02-frm.md) · [CQF](./articles/E02-international-certifications/E02-03-cqf.md) · [CAIA](./articles/E02-international-certifications/E02-04-caia.md) · [CMT](./articles/E02-international-certifications/E02-05-cmt.md) · [PRM](./articles/E02-international-certifications/E02-06-prm.md) · [FINRA](./articles/E02-international-certifications/E02-07-finra-series.md) · [精算师SOA/CAS](./articles/E02-international-certifications/E02-08-soa-cas.md) · [中国精算师](./articles/E02-international-certifications/E02-09-caa-actuary.md) · [ERP](./articles/E02-international-certifications/E02-10-erp.md) |
+
 #### T - 技术工具指南（Technology Tools Guide）
 
 量化交易技术工具的详细介绍与使用指南
@@ -261,6 +279,8 @@ dao-quant-research/
 │   ├── R03-backtesting/               # 回测方法 (1篇)
 │   ├── R04-essays/                    # 研究随笔 (1篇)
 │   ├── R05-literature/                # 文献综述 (14篇)
+│   ├── E01-domestic-qualifications/    # 国内从业资格 (7篇)
+│   ├── E02-international-certifications/ # 国际资格认证 (10篇)
 │   ├── T01-quant-tools-guide/         # 技术工具指南 (21篇)
 │   ├── O01-open-source-projects/      # 开源项目 (10篇)
 │
