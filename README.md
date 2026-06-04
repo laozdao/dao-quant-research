@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **107** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **108** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **107** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **108** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,8 +65,8 @@
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **27** | 5.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **O - 开源项目** | 1 | 10 | 10篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **107** | **3.8篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 1 | 11 | 11篇 | 量化交易开源项目深度解析 |
+| **总计** | **28** | **108** | **3.9篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -101,6 +101,7 @@
 | **[城市更新十五五规划出炉：十五万亿级市场与投资机遇分析](./articles/I03-real-estate/I03-04-urban-renewal-15th-five-year-plan.md)** | I03 | 2026-05-31 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，解读城市更新十五五规划核心指标与15-20万亿市场空间，识别建筑、建材、地产、管网投资机会，综合评分65.8分，评级B（推荐） |
 | **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
 | **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
+| **[AI Hedge Fund传奇投资者Agent](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md)** | O01 | 2026-06-04 | 🟡 中级 | 35min | 25k+ Stars，用19个LLM Agent模拟巴菲特/芒格/林奇等传奇投资者协作决策 |
 | **[CAPM资本资产定价模型详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md)** | R05 | 2026-06-01 | 🟡 中级 | 35min | 系统阐述CAPM理论基础、核心公式、Beta系数计算、假设条件及A股实证分析 |
 | **[CAPM模型Python实战指南](./articles/R05-literature/R05-06-CAPM-python-implementation.md)** | R05 | 2026-06-01 | 🟡 中级 | 40min | 基于Python实现CAPM完整分析流程，涵盖数据获取、Beta计算、Alpha分析与可视化 |
 | **[Fama-French多因子模型详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析三因子与五因子模型理论基础、因子构建方法、实证检验及A股应用 |
@@ -171,40 +172,13 @@
 | [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
-
-
-#### E - 国内从业资格（Domestic Qualifications）
-
-与量化交易相关的国内从业资格考试与专业认证
-
-| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
-|--------|------|:------:|------|---------|
-| [国内资格](./articles/E01-domestic-qualifications/) | E01 | **7** | 证券/期货/基金/银行/CPA/保代 | [目录索引](./articles/E01-domestic-qualifications/E01-00-README.md) · [证券从业](./articles/E01-domestic-qualifications/E01-01-securities-qualification.md) · [期货从业](./articles/E01-domestic-qualifications/E01-02-futures-qualification.md) · [基金从业](./articles/E01-domestic-qualifications/E01-03-fund-qualification.md) · [银行从业](./articles/E01-domestic-qualifications/E01-04-banking-qualification.md) · [CPA](./articles/E01-domestic-qualifications/E01-05-cpa.md) · [保荐代表人](./articles/E01-domestic-qualifications/E01-06-sponsor-representative.md) |
-
-
-#### E - 国际资格认证（International Certifications）
-
-与量化交易相关的国际金融资格证书
-
-| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
-|--------|------|:------:|------|---------|
-| [国际认证](./articles/E02-international-certifications/) | E02 | **10** | CFA/FRM/CQF/CAIA/CMT/PRM等 | [CFA](./articles/E02-international-certifications/E02-01-cfa.md) · [FRM](./articles/E02-international-certifications/E02-02-frm.md) · [CQF](./articles/E02-international-certifications/E02-03-cqf.md) · [CAIA](./articles/E02-international-certifications/E02-04-caia.md) · [CMT](./articles/E02-international-certifications/E02-05-cmt.md) · [PRM](./articles/E02-international-certifications/E02-06-prm.md) · [FINRA](./articles/E02-international-certifications/E02-07-finra-series.md) · [精算师SOA/CAS](./articles/E02-international-certifications/E02-08-soa-cas.md) · [中国精算师](./articles/E02-international-certifications/E02-09-caa-actuary.md) · [ERP](./articles/E02-international-certifications/E02-10-erp.md) |
-
-#### T - 技术工具指南（Technology Tools Guide）
-
-量化交易技术工具的详细介绍与使用指南
-
-| 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
-|--------|------|:------:|------|---------|
-| [量化工具指南](./articles/T01-quant-tools-guide/) | T01 | **21** | 20个热门量化工具详细介绍 | [目录索引](./articles/T01-quant-tools-guide/T01-00-README.md) · [Python](./articles/T01-quant-tools-guide/T01-01-python.md) · [R语言](./articles/T01-quant-tools-guide/T01-02-r-language.md) · [pandas](./articles/T01-quant-tools-guide/T01-03-pandas.md) · [NumPy](./articles/T01-quant-tools-guide/T01-04-numpy.md) · [yfinance](./articles/T01-quant-tools-guide/T01-05-yfinance.md) · [Backtrader](./articles/T01-quant-tools-guide/T01-06-backtrader.md) · [vectorbt](./articles/T01-quant-tools-guide/T01-07-vectorbt.md) · [QuantConnect](./articles/T01-quant-tools-guide/T01-08-quantconnect-lean.md) · [scikit-learn](./articles/T01-quant-tools-guide/T01-09-scikit-learn.md) · [PyTorch](./articles/T01-quant-tools-guide/T01-10-pytorch.md) · [TensorFlow](./articles/T01-quant-tools-guide/T01-11-tensorflow.md) · [TA-Lib](./articles/T01-quant-tools-guide/T01-12-ta-lib.md) · [ccxt](./articles/T01-quant-tools-guide/T01-13-ccxt.md) · [IB API](./articles/T01-quant-tools-guide/T01-14-interactive-brokers-api.md) · [matplotlib](./articles/T01-quant-tools-guide/T01-15-matplotlib.md) · [Plotly](./articles/T01-quant-tools-guide/T01-16-plotly.md) · [InfluxDB](./articles/T01-quant-tools-guide/T01-17-influxdb.md) · [Redis](./articles/T01-quant-tools-guide/T01-18-redis.md) · [Kafka](./articles/T01-quant-tools-guide/T01-19-apache-kafka.md) · [Jupyter](./articles/T01-quant-tools-guide/T01-20-jupyter-notebook.md) |
-
 #### O - 开源项目（Open Source Projects）
 
 量化交易领域优秀开源项目的深度解析与评估
 
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [开源项目](./articles/O01-open-source-projects/) | O01 | **10** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) |
+| [开源项目](./articles/O01-open-source-projects/) | O01 | **11** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) · [AI Hedge Fund](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md) |
 
 ---
 
@@ -278,11 +252,8 @@ dao-quant-research/
 │   ├── R02-data-processing/           # 数据处理 (1篇)
 │   ├── R03-backtesting/               # 回测方法 (1篇)
 │   ├── R04-essays/                    # 研究随笔 (1篇)
-│   ├── R05-literature/                # 文献综述 (14篇)
-│   ├── E01-domestic-qualifications/    # 国内从业资格 (7篇)
-│   ├── E02-international-certifications/ # 国际资格认证 (10篇)
-│   ├── T01-quant-tools-guide/         # 技术工具指南 (21篇)
-│   ├── O01-open-source-projects/      # 开源项目 (10篇)
+│   ├── R05-literature/                # 文献综述 (1篇)
+│   ├── O01-open-source-projects/      # 开源项目 (1篇)
 │
 ├── templates/                         # 📝 文章模板
 │   └── article-template.md            # 标准文章模板
