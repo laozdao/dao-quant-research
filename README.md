@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **108** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **127** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **108** 篇研究文章，覆盖 **28** 个子分类，按 **5 大板块** 组织
+> 共收录 **127** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,8 +65,8 @@
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **27** | 5.4篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **O - 开源项目** | 1 | 11 | 11篇 | 量化交易开源项目深度解析 |
-| **总计** | **28** | **108** | **3.9篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
+| **总计** | **29** | **127** | **4.4篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -102,6 +102,25 @@
 | **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
 | **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
 | **[AI Hedge Fund传奇投资者Agent](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md)** | O01 | 2026-06-04 | 🟡 中级 | 35min | 25k+ Stars，用19个LLM Agent模拟巴菲特/芒格/林奇等传奇投资者协作决策 |
+| **[Warren Buffett Agent：奥马哈先知的AI价值投资之道](./articles/O02-ai-hedge-fund-agents/O02-01-warren-buffett-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 深度解析巴菲特Agent的护城河分析、Owner Earnings计算与LLM提示词设计 |
+| **[Ben Graham Agent：证券分析之父的深度价值筛选法](./articles/O02-ai-hedge-fund-agents/O02-02-ben-graham-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 格雷厄姆净净股筛选、Graham Number公式与安全边际量化实现 |
+| **[Charlie Munger Agent：质量优先的多元思维模型](./articles/O02-ai-hedge-fund-agents/O02-03-charlie-munger-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 芒格Agent的ROIC持续性分析、质量>价格权重设计与巴菲特Agent对比 |
+| **[Michael Burry Agent：大空头的逆向深度价值猎手](./articles/O02-ai-hedge-fund-agents/O02-04-michael-burry-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 伯里Agent的逆向情绪分析、FCF收益率评分与硬催化剂识别机制 |
+| **[Mohnish Pabrai Agent：Dhandho投资的下行保护艺术](./articles/O02-ai-hedge-fund-agents/O02-05-mohnish-pabrai-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 帕布莱"正面我赢反面不输"哲学的量化实现与轻资产模式分析 |
+| **[Cathie Wood Agent：颠覆性创新的AI捕手](./articles/O02-ai-hedge-fund-agents/O02-06-cathie-wood-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 伍德Agent的高成长DCF模型（20%增长率）与经营杠杆分析 |
+| **[Phil Fisher Agent：闲话中的成长股猎手](./articles/O02-ai-hedge-fund-agents/O02-07-phil-fisher-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 费雪Scuttlebutt法的量化实现、CAGR计算与利润率稳定性分析 |
+| **[Peter Lynch Agent：十倍股猎手的GARP策略](./articles/O02-ai-hedge-fund-agents/O02-08-peter-lynch-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 林奇Agent的PEG核心指标、六种股票分类与十倍股识别逻辑 |
+| **[Growth Agent：纯量化增长评分引擎](./articles/O02-ai-hedge-fund-agents/O02-09-growth-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 唯一不使用LLM的Agent，线性回归趋势分析与五维度加权评分 |
+| **[Stanley Druckenmiller Agent：宏观传奇的不对称风险猎手](./articles/O02-ai-hedge-fund-agents/O02-10-stanley-druckenmiller-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 德鲁肯米勒Agent的价格动量评分、不对称风险回报与趋势跟踪 |
+| **[Nassim Taleb Agent：黑天鹅猎手的反脆弱投资框架](./articles/O02-ai-hedge-fund-agents/O02-11-nassim-taleb-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 塔勒布Agent的尾部风险（峰度/偏度）、反脆弱性与凸性分析 |
+| **[Bill Ackman Agent：激进主义者的质量投资法](./articles/O02-ai-hedge-fund-agents/O02-12-bill-ackman-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 阿克曼Agent的激进主义潜力分析、品牌护城河与简化DCF估值 |
+| **[Aswath Damodaran Agent：估值教父的学术DCF框架](./articles/O02-ai-hedge-fund-agents/O02-13-aswath-damodaran-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 达蒙达兰Agent的CAPM模型、"故事→数字→价值"叙事与FCFF DCF |
+| **[Rakesh Jhunjhunwala Agent：印度大牛的复合增长猎法](./articles/O02-ai-hedge-fund-agents/O02-14-rakesh-jhunjhunwala-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 强君胡瓦拉Agent的ROE导向、管理层行为分析与双轨信号生成 |
+| **[Valuation Agent：四模型加权的内在价值评估引擎](./articles/O02-ai-hedge-fund-agents/O02-15-valuation-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | DCF+Owner Earnings+EV/EBITDA+剩余收益四模型加权估值系统 |
+| **[Fundamentals Agent：四维度基本面量化评分系统](./articles/O02-ai-hedge-fund-agents/O02-16-fundamentals-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 盈利能力/增长/财务健康/估值比率四维度多数决评分系统 |
+| **[Technicals Agent：五策略集成的量化技术分析系统](./articles/O02-ai-hedge-fund-agents/O02-17-technicals-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 趋势跟踪+均值回归+动量+波动率+统计套利五策略加权集成 |
+| **[Risk Manager：波动率-相关性动态仓位控制系统](./articles/O02-ai-hedge-fund-agents/O02-18-risk-manager.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 波动率四级仓位限制+相关性调整乘数+双重约束机制 |
+| **[Portfolio Manager：多Agent信号聚合的最终决策引擎](./articles/O02-ai-hedge-fund-agents/O02-19-portfolio-manager.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 19个Agent信号聚合+预过滤优化+LLM紧凑决策+确定性约束 |
 | **[CAPM资本资产定价模型详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md)** | R05 | 2026-06-01 | 🟡 中级 | 35min | 系统阐述CAPM理论基础、核心公式、Beta系数计算、假设条件及A股实证分析 |
 | **[CAPM模型Python实战指南](./articles/R05-literature/R05-06-CAPM-python-implementation.md)** | R05 | 2026-06-01 | 🟡 中级 | 40min | 基于Python实现CAPM完整分析流程，涵盖数据获取、Beta计算、Alpha分析与可视化 |
 | **[Fama-French多因子模型详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析三因子与五因子模型理论基础、因子构建方法、实证检验及A股应用 |
@@ -179,6 +198,7 @@
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
 | [开源项目](./articles/O01-open-source-projects/) | O01 | **11** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) · [AI Hedge Fund](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md) |
+| [AI Hedge Fund Agent](./articles/O02-ai-hedge-fund-agents/) | O02 | **19** | AI对冲基金19个Agent深度解析 | [Buffett](./articles/O02-ai-hedge-fund-agents/O02-01-warren-buffett-agent.md) · [Graham](./articles/O02-ai-hedge-fund-agents/O02-02-ben-graham-agent.md) · [Munger](./articles/O02-ai-hedge-fund-agents/O02-03-charlie-munger-agent.md) · [Burry](./articles/O02-ai-hedge-fund-agents/O02-04-michael-burry-agent.md) · [Pabrai](./articles/O02-ai-hedge-fund-agents/O02-05-mohnish-pabrai-agent.md) · [Wood](./articles/O02-ai-hedge-fund-agents/O02-06-cathie-wood-agent.md) · [Fisher](./articles/O02-ai-hedge-fund-agents/O02-07-phil-fisher-agent.md) · [Lynch](./articles/O02-ai-hedge-fund-agents/O02-08-peter-lynch-agent.md) · [Growth](./articles/O02-ai-hedge-fund-agents/O02-09-growth-agent.md) · [Druckenmiller](./articles/O02-ai-hedge-fund-agents/O02-10-stanley-druckenmiller-agent.md) · [Taleb](./articles/O02-ai-hedge-fund-agents/O02-11-nassim-taleb-agent.md) · [Ackman](./articles/O02-ai-hedge-fund-agents/O02-12-bill-ackman-agent.md) · [Damodaran](./articles/O02-ai-hedge-fund-agents/O02-13-aswath-damodaran-agent.md) · [Jhunjhunwala](./articles/O02-ai-hedge-fund-agents/O02-14-rakesh-jhunjhunwala-agent.md) · [Valuation](./articles/O02-ai-hedge-fund-agents/O02-15-valuation-agent.md) · [Fundamentals](./articles/O02-ai-hedge-fund-agents/O02-16-fundamentals-agent.md) · [Technicals](./articles/O02-ai-hedge-fund-agents/O02-17-technicals-agent.md) · [Risk Manager](./articles/O02-ai-hedge-fund-agents/O02-18-risk-manager.md) · [Portfolio Manager](./articles/O02-ai-hedge-fund-agents/O02-19-portfolio-manager.md) |
 
 ---
 
