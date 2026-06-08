@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **128** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **129** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 23 | 3.3篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | **27** | 5.4篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **128** | **4.4篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **129** | **4.4篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -132,6 +132,7 @@
 | **[Black-Litterman模型理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析BL模型贝叶斯框架、观点融合机制、参数设定及资产配置应用 |
 | **[Black-Litterman模型Python实战指南](./articles/R05-literature/R05-14-black-litterman-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现BL模型完整流程，涵盖均衡收益计算、观点设定、后验融合与回测 |
 | **[基本面α因子研究最佳实践](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md)** | M06 | 2026-06-04 | 🔴 高级 | 45min | 系统阐述基本面α因子研究的完整方法论，包括因子构建、IC测试、分层回测、因子正交化及组合优化 |
+| **[Serenity 瓶颈投资方法论深度研究：紫苏叶理论与供应链逆向拆解](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md)** | R04 | 2026-06-08 | 🔴 高级 | 50min | 深度研究X平台匿名投资者Serenity的瓶颈投资方法论，系统梳理Chokepoint Theory、AI产业链七层模型、代表性案例及可复制的四问筛选法 |
 
 ---
 
@@ -189,7 +190,7 @@
 | [研究工具](./articles/R01-tools/) | R01 | **3** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) · [Python工具链](./articles/R01-tools/R01-02-python-quant-toolchain.md) · [量化平台对比](./articles/R01-tools/R01-03-quant-platform-comparison.md) |
 | [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
-| [研究随笔](./articles/R04-essays/) | R04 | **3** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) |
+| [研究随笔](./articles/R04-essays/) | R04 | **4** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) · [Serenity瓶颈投资方法论](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
 #### O - 开源项目（Open Source Projects）
