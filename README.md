@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **129** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **130** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 23 | 3.3篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | 34 | 3.4篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **35** | 3.5篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **129** | **4.4篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **130** | **4.4篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -133,6 +133,7 @@
 | **[Black-Litterman模型Python实战指南](./articles/R05-literature/R05-14-black-litterman-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现BL模型完整流程，涵盖均衡收益计算、观点设定、后验融合与回测 |
 | **[基本面α因子研究最佳实践](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md)** | M06 | 2026-06-04 | 🔴 高级 | 45min | 系统阐述基本面α因子研究的完整方法论，包括因子构建、IC测试、分层回测、因子正交化及组合优化 |
 | **[Serenity 瓶颈投资方法论深度研究：紫苏叶理论与供应链逆向拆解](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md)** | R04 | 2026-06-08 | 🔴 高级 | 50min | 深度研究X平台匿名投资者Serenity的瓶颈投资方法论，系统梳理Chokepoint Theory、AI产业链七层模型、代表性案例及可复制的四问筛选法 |
+| **[SpaceX IPO 深度影响分析：万亿航天巨头的资本盛宴与产业链重塑](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md)** | I10 | 2026-06-09 | 🔴 高级 | 45min | 深度分析SpaceX计划于2026年6月12日登陆纳斯达克的IPO事件，涵盖750亿美元募资规模、1.75万亿美元估值合理性、A股核心受益企业梳理、短期情绪催化与长期产业重塑逻辑 |
 
 ---
 
@@ -167,7 +168,7 @@
 | [消费](./articles/I07-consumer/) | I07 | **3** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **3** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) |
-| [制造](./articles/I10-manufacturing/) | I10 | **3** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) |
+| [制造](./articles/I10-manufacturing/) | I10 | **4** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) |
 
 #### C - 个股案例（Case Studies）
 
