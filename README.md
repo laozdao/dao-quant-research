@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **131** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **132** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | 23 | 3.3篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | **36** | 3.6篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **37** | 3.7篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **131** | **4.5篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **132** | **4.6篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -135,6 +135,7 @@
 | **[Serenity 瓶颈投资方法论深度研究：紫苏叶理论与供应链逆向拆解](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md)** | R04 | 2026-06-08 | 🔴 高级 | 50min | 深度研究X平台匿名投资者Serenity的瓶颈投资方法论，系统梳理Chokepoint Theory、AI产业链七层模型、代表性案例及可复制的四问筛选法 |
 | **[SpaceX IPO 深度影响分析：万亿航天巨头的资本盛宴与产业链重塑](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md)** | I10 | 2026-06-09 | 🔴 高级 | 45min | 深度分析SpaceX计划于2026年6月12日登陆纳斯达克的IPO事件，涵盖750亿美元募资规模、1.75万亿美元估值合理性、A股核心受益企业梳理、短期情绪催化与长期产业重塑逻辑 |
 | **[六氟化钨（WF6）产业链深度分析：从隐形基石到资源反制](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md)** | I05 | 2026-06-10 | 🔴 高级 | 40min | 深度分析六氟化钨在半导体制造中的战略地位、全球供需格局、中国钨资源反制逻辑、核心企业产能梳理及投资风险，国产替代率突破65% |
+| **[大型体育赛事对市场影响深度分析：以2026美加墨世界杯为例](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md)** | I07 | 2026-06-11 | 🟡 中级 | 35min | 以2026世界杯（48队104场史上最大规模）为案例，分析大型体育赛事对资本市场的多层次影响，涵盖产业链四大赛道、世界杯魔咒统计验证与事件驱动投资框架 |
 
 ---
 
@@ -166,7 +167,7 @@
 | [医药生物](./articles/I04-pharma/) | I04 | **3** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) · [医疗器械](./articles/I04-pharma/I04-03-medical-device-innovation.md) |
 | [电子半导体](./articles/I05-semiconductor/) | I05 | **6** | 芯片、消费电子、半导体设备 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-computing-demand.md) · [长鑫科技IPO](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md) · [华为韬定律](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md) · [六氟化钨分析](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md) |
 | [新能源](./articles/I06-new-energy/) | I06 | **4** | 光伏、锂电、储能、新能源车 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) · [算电协同](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md) |
-| [消费](./articles/I07-consumer/) | I07 | **3** | 白酒、食品饮料、家电 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) |
+| [消费](./articles/I07-consumer/) | I07 | **4** | 白酒、食品饮料、家电、体育消费 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) · [体育赛事影响](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **3** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) |
 | [制造](./articles/I10-manufacturing/) | I10 | **4** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) |
