@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **135** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **136** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
-| **M - 模型理论** | 7 | **24** | 3.4篇 | 双引擎四层模型完整解析 |
+| **M - 模型理论** | 7 | **25** | 3.6篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | **38** | 3.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **135** | **4.7篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **136** | **4.7篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -139,6 +139,7 @@
 | **[A股情绪量化方法论深度研究：大盘·行业·概念·个股四层体系](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md)** | M03 | 2026-06-12 | 🔴 高级 | 45min | 系统构建A股情绪量化四层方法论体系，涵盖100+情绪指标分类、恐慌贪婪指数、情绪周期模型（冰点→修复→高潮→分歧）、概念热度生命周期模型及Python实现框架 |
 | **[物理AI（Physical AI）产业链深度拆解：从虚拟智能到实体智能的五层架构](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md)** | I05 | 2026-06-13 | 🔴 高级 | 40min | 系统拆解物理AI产业链五层架构：仿真引擎（索辰科技）、算力底座（工业富联/浪潮信息）、感知层（奥比中光/柯力传感）、执行层（绿的谐波/拓普集团）、整机应用（埃斯顿/九号公司），涵盖30+核心企业业务梳理与国产替代进展 |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min | 系统梳理A股大盘阶段判断六大量化方法：五维择时模型、隐马尔可夫状态识别（HMM+动态调制）、估值水位分析、市场宽度与微观结构指标、库存周期定位、调整级别量化判定，构建从宏观到微观的全方位市场阶段判断工具箱 |
+| **[国泰君安191因子（GTJA191）量化分析方法深度研究](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md)** | M06 | 2026-06-15 | 🔴 高级 | 50min | 深度解析国泰君安191因子完整方法论，涵盖191个因子的六大因子族分类（量价相关性/量价变化幅度/时间序列排名/多空力量/移动平均/回归残差）、16种核心算子体系、IC/IR有效性检验、因子降维与合成策略、因子衰减应对方案及Python实现框架 |
 
 ---
 
@@ -155,7 +156,7 @@
 | [量价引擎](./articles/M03-volume-price-engine/) | M03 | **6** | 趋势分析、量价配合、资金流向、筹码分布、情绪量化、大盘阶段判断 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) · [趋势分析实践](./articles/M03-volume-price-engine/M03-04-trend-analysis-best-practices.md) · [情绪量化](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md) · [大盘阶段判断](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md) |
 | [风控引擎](./articles/M04-risk-control/) | M04 | **3** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) · [VaR模型](./articles/M04-risk-control/M04-02-var-model-drawdown-control.md) · [集中度流动性](./articles/M04-risk-control/M04-03-concentration-liquidity-risk.md) |
 | [融合算法](./articles/M05-fusion-algorithm/) | M05 | **3** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) · [动态权重](./articles/M05-fusion-algorithm/M05-02-dynamic-weight-adaptive-scoring.md) · [机器学习融合](./articles/M05-fusion-algorithm/M05-03-machine-learning-factor-fusion.md) |
-| [因子检验](./articles/M06-factor-validation/) | M06 | **4** | 单因子有效性、IC测试、分层回测 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) · [多因子组合](./articles/M06-factor-validation/M06-03-multi-factor-portfolio-optimization.md) · [基本面α因子](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md) |
+| [因子检验](./articles/M06-factor-validation/) | M06 | **5** | 单因子有效性、IC测试、分层回测、GTJA191因子 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) · [多因子组合](./articles/M06-factor-validation/M06-03-multi-factor-portfolio-optimization.md) · [基本面α因子](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md) · [GTJA191因子](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md) |
 | [模型迭代](./articles/M07-model-iteration/) | M07 | **3** | 版本更新、改进记录、回测对比 | [迭代记录](./articles/M07-model-iteration/M07-01-model-iteration-records.md) · [回测绩效](./articles/M07-model-iteration/M07-02-backtest-performance-improvement.md) · [AI应用](./articles/M07-model-iteration/M07-03-model-future-ai-applications.md) |
 
 #### I - 行业研究（Industry Research）
