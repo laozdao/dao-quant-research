@@ -292,5 +292,3 @@ Alpha191: (-1 * CORR(RANK(MAX((CLOSE-LOW)/(HIGH-CLOSE)),((HIGH-CLOSE)/(CLOSE-LOW
 4. **回测参数**：中证 500 成分股，日频调仓，千 1 手续费，持仓 50–100 只
 
 ---
-
-> （注：文档部分内容可能由 AI 生成）
