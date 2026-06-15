@@ -293,6 +293,4 @@ Alpha191: (-1 * CORR(RANK(MAX((CLOSE-LOW)/(HIGH-CLOSE)),((HIGH-CLOSE)/(CLOSE-LOW
 
 ---
 
-要不要我把这 191 条整理成**可直接导入 Python/DolphinDB 的 CSV 表格**（含序号、公式、因子类型、推荐权重）？
-
 > （注：文档部分内容可能由 AI 生成）
