@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **139** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **140** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
-| **M - 模型理论** | 7 | **27** | 3.9篇 | 双引擎四层模型完整解析 |
+| **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | **38** | 3.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **139** | **4.8篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **140** | **4.8篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -143,6 +143,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min | 国泰君安191因子完整公式表原文档，包含Alpha1至Alpha191的全部公式文本、统一算子定义、使用提示及可直接导入的文本版 |
 | **[WorldQuant 101因子（Alpha101）量化分析方法深度研究](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md)** | M06 | 2026-06-16 | 🔴 高级 | 55min | 深度解析WorldQuant Alpha101完整方法论，涵盖101个因子的四大投资原理分类（量价理论45%/均值回归30%/动量15%/蜡烛图理论10%）、20+种核心算子、五大量化构建手段、核心因子逐个解读、BRAIN竞赛指南及Python实现框架 |
 | **[A股各板块轮动规律的量化分析方法](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md)** | M03 | 2026-06-17 | 🔴 高级 | 50min | 系统梳理A股板块轮动四大维度（行业/风格/大小盘/主题）、经济周期驱动框架（美林时钟/库存周期）、六大量化轮动模型（动量/均值回归/RSI/均线能量/宏观因子/多策略融合）、ETF轮动实战策略及Python实现框架 |
+| **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min | 系统构建FOMC议息会议量化分析全框架，涵盖利率决议超预期度量、声明文本NLP鹰鸽情感分析、点阵图与SEP量化解读、事件窗口资产反应统计、A股三大传导渠道建模、四类事件驱动策略构建及完整六步实战分析流程 |
 
 ---
 
@@ -156,7 +157,7 @@
 |--------|------|:------:|------|---------|
 | [模型总览](./articles/M01-model-overview/) | M01 | **3** | 模型架构、设计哲学、整体介绍 | [架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md) · [数学原理](./articles/M01-model-overview/M01-02-dual-engine-four-layer-math.md) · [回测绩效](./articles/M01-model-overview/M01-03-model-backtest-performance-evaluation.md) |
 | [基本面引擎](./articles/M02-fundamental-engine/) | M02 | **3** | 盈利能力、成长能力、估值、财务健康 | [引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) · [ROE杜邦分析](./articles/M02-fundamental-engine/M02-02-roe-dupont-analysis.md) · [成长因子](./articles/M02-fundamental-engine/M02-03-growth-factor-peg-valuation.md) |
-| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **7** | 趋势分析、量价配合、资金流向、筹码分布、情绪量化、大盘阶段判断、板块轮动 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) · [趋势分析实践](./articles/M03-volume-price-engine/M03-04-trend-analysis-best-practices.md) · [情绪量化](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md) · [大盘阶段判断](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md) · [板块轮动](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md) |
+| [量价引擎](./articles/M03-volume-price-engine/) | M03 | **8** | 趋势分析、量价配合、资金流向、筹码分布、情绪量化、大盘阶段判断、板块轮动、美联储议息量化 | [引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md) · [均线系统](./articles/M03-volume-price-engine/M03-02-moving-average-trend-tracking.md) · [资金流向](./articles/M03-volume-price-engine/M03-03-capital-flow-analysis.md) · [趋势分析实践](./articles/M03-volume-price-engine/M03-04-trend-analysis-best-practices.md) · [情绪量化](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md) · [大盘阶段判断](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md) · [板块轮动](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md) · [美联储议息量化](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md) |
 | [风控引擎](./articles/M04-risk-control/) | M04 | **3** | 波动率、回撤控制、集中度、流动性风险 | [引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md) · [VaR模型](./articles/M04-risk-control/M04-02-var-model-drawdown-control.md) · [集中度流动性](./articles/M04-risk-control/M04-03-concentration-liquidity-risk.md) |
 | [融合算法](./articles/M05-fusion-algorithm/) | M05 | **3** | 加权机制、评级映射、动态调整 | [算法概述](./articles/M05-fusion-algorithm/M05-01-fusion-algorithm-overview.md) · [动态权重](./articles/M05-fusion-algorithm/M05-02-dynamic-weight-adaptive-scoring.md) · [机器学习融合](./articles/M05-fusion-algorithm/M05-03-machine-learning-factor-fusion.md) |
 | [因子检验](./articles/M06-factor-validation/) | M06 | **7** | 单因子有效性、IC测试、分层回测、GTJA191因子、WorldQuant Alpha101 | [检验方法](./articles/M06-factor-validation/M06-01-factor-validation-methods.md) · [IC测试](./articles/M06-factor-validation/M06-02-ic-test-factor-validation.md) · [多因子组合](./articles/M06-factor-validation/M06-03-multi-factor-portfolio-optimization.md) · [基本面α因子](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md) · [GTJA191因子](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md) · [GTJA191公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md) · [WQ Alpha101](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md) |
