@@ -316,7 +316,7 @@ pip install pandas numpy matplotlib seaborn tushare akshare backtrader
 ## 📬 联系方式
 
 - GitHub Issues: [提交问题或建议](https://github.com/laozdao/dao-quant-research/issues)
-- 邮箱: dao.quant.research@example.com
+- 邮箱: laozdao@126.com
 
 ---
 
