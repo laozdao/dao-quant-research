@@ -57,7 +57,7 @@
 
 ### 📊 统计概览
 
-> 共收录 **140** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **141** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
@@ -65,8 +65,8 @@
 | **I - 行业研究** | 10 | **38** | 3.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
-| **O - 开源项目** | 2 | 30 | 15篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **140** | **4.8篇** | 覆盖量化投资全流程 |
+| **O - 开源项目** | 2 | 31 | 15.5篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
+| **总计** | **29** | **141** | **4.9篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -77,6 +77,7 @@
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
 | **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min |
+| **[AI-Trader：港大HKUDS出品的Agent原生AI交易平台](./articles/O01-open-source-projects/O01-12-ai-trader-agent-native-platform.md)** | O01 | 2026-06-19 | 🟡 中级 | 35min |
 | **[A股各板块轮动规律的量化分析方法](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md)** | M03 | 2026-06-17 | 🔴 高级 | 50min |
 | **[WorldQuant 101因子（Alpha101）量化分析方法深度研究](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md)** | M06 | 2026-06-16 | 🔴 高级 | 55min |
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
@@ -87,7 +88,7 @@
 | **[大型体育赛事对市场影响深度分析：以2026美加墨世界杯为例](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md)** | I07 | 2026-06-11 | 🟡 中级 | 35min |
 | **[六氟化钨（WF6）产业链深度分析：从隐形基石到资源反制](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md)** | I05 | 2026-06-10 | 🔴 高级 | 40min |
 
-> 📌 **查看更多**：完整 **140** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **141** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -154,7 +155,7 @@
 
 | 子分类 | 代码 | 文章数 | 说明 | 文章列表 |
 |--------|------|:------:|------|---------|
-| [开源项目](./articles/O01-open-source-projects/) | O01 | **11** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) · [AI Hedge Fund](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md) |
+| [开源项目](./articles/O01-open-source-projects/) | O01 | **12** | 量化交易开源项目深度解析 | [TradingAgents](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md) · [Microsoft Qlib](./articles/O01-open-source-projects/O01-02-microsoft-qlib-ai-quant-platform.md) · [Backtrader](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md) · [Freqtrade](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md) · [StockSharp](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md) · [Riskfolio-Lib](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md) · [FinRL](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md) · [TradeMaster](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md) · [VN.PY](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md) · [Zipline](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md) · [AI Hedge Fund](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md) · [AI-Trader](./articles/O01-open-source-projects/O01-12-ai-trader-agent-native-platform.md) |
 | [AI Hedge Fund Agent](./articles/O02-ai-hedge-fund-agents/) | O02 | **19** | AI对冲基金19个Agent深度解析 | [Buffett](./articles/O02-ai-hedge-fund-agents/O02-01-warren-buffett-agent.md) · [Graham](./articles/O02-ai-hedge-fund-agents/O02-02-ben-graham-agent.md) · [Munger](./articles/O02-ai-hedge-fund-agents/O02-03-charlie-munger-agent.md) · [Burry](./articles/O02-ai-hedge-fund-agents/O02-04-michael-burry-agent.md) · [Pabrai](./articles/O02-ai-hedge-fund-agents/O02-05-mohnish-pabrai-agent.md) · [Wood](./articles/O02-ai-hedge-fund-agents/O02-06-cathie-wood-agent.md) · [Fisher](./articles/O02-ai-hedge-fund-agents/O02-07-phil-fisher-agent.md) · [Lynch](./articles/O02-ai-hedge-fund-agents/O02-08-peter-lynch-agent.md) · [Growth](./articles/O02-ai-hedge-fund-agents/O02-09-growth-agent.md) · [Druckenmiller](./articles/O02-ai-hedge-fund-agents/O02-10-stanley-druckenmiller-agent.md) · [Taleb](./articles/O02-ai-hedge-fund-agents/O02-11-nassim-taleb-agent.md) · [Ackman](./articles/O02-ai-hedge-fund-agents/O02-12-bill-ackman-agent.md) · [Damodaran](./articles/O02-ai-hedge-fund-agents/O02-13-aswath-damodaran-agent.md) · [Jhunjhunwala](./articles/O02-ai-hedge-fund-agents/O02-14-rakesh-jhunjhunwala-agent.md) · [Valuation](./articles/O02-ai-hedge-fund-agents/O02-15-valuation-agent.md) · [Fundamentals](./articles/O02-ai-hedge-fund-agents/O02-16-fundamentals-agent.md) · [Technicals](./articles/O02-ai-hedge-fund-agents/O02-17-technicals-agent.md) · [Risk Manager](./articles/O02-ai-hedge-fund-agents/O02-18-risk-manager.md) · [Portfolio Manager](./articles/O02-ai-hedge-fund-agents/O02-19-portfolio-manager.md) |
 
 ---
