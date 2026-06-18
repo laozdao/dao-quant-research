@@ -72,78 +72,22 @@
 
 ### 🆕 最新文章
 
-> 精选推荐与最新发布的研究文章
+> 最近 10 篇发布的研究文章（完整目录见下方分类板块）
 
-| 文章 | 分类 | 日期 | 难度 | 阅读时间 | 摘要 |
-|------|------|------|:----:|:--------:|------|
-| **[老子道·芯鉴九维投资分析模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md)** | I05 | 2026-05-20 | 🔴 高级 | 45min | 以道家哲学为底层逻辑，构建覆盖电子行业五大细分赛道（半导体设备、AI芯片、半导体材料、存储芯片、消费电子）的九维量化投资分析模型 |
-| **[Dao Quant 双引擎四层融合模型架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md)** | M01 | 2026-05-20 | 🟡 中级 | 25min | 系统阐述 Dao Quant 核心模型的整体架构、设计哲学与核心逻辑，建立整体框架认知 |
-| **[基本面引擎概述](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md)** | M02 | 2026-05-20 | 🟡 中级 | 30min | 双引擎四层模型中占60%权重的基本面评估体系，涵盖盈利/成长/估值/财务四大维度 |
-| **[量价引擎概述](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md)** | M03 | 2026-05-20 | 🟡 中级 | 30min | 占25%权重的趋势、量价、资金、筹码四维分析体系 |
-| **[风控引擎概述](./articles/M04-risk-control/M04-01-risk-control-engine-overview.md)** | M04 | 2026-05-20 | 🟡 中级 | 25min | 占15%权重的波动率、回撤、集中度、流动性风险控制体系 |
-| **[新能源行业量化分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md)** | I06 | 2026-05-20 | 🟡 中级 | 35min | 光伏、锂电、储能产业周期分析与投资框架 |
-| **[沪深300成分股分析框架](./articles/C01-hs300/C01-01-hs300-component-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 30min | 大盘蓝筹的量化评估与选股策略 |
-| **[ROE杜邦分析与盈利质量评估](./articles/M02-fundamental-engine/M02-02-roe-dupont-analysis.md)** | M02 | 2026-05-20 | 🟡 中级 | 30min | ROE三因素分解与盈利质量深度分析 |
-| **[Python量化投资工具链实战](./articles/R01-tools/R01-02-python-quant-toolchain.md)** | R01 | 2026-05-20 | 🟡 中级 | 35min | Tushare/AkShare/Backtrader实战应用 |
-| **[贵州茅台深度量化分析](./articles/C01-hs300/C01-02-maotai-quantitative-analysis.md)** | C01 | 2026-05-20 | 🟡 中级 | 40min | 品牌价值/盈利能力/现金流全面评估 |
-| **[Fama-French五因子模型详解](./articles/R05-literature/R05-02-fama-french-five-factor.md)** | R05 | 2026-05-20 | 🔴 高级 | 40min | 市场/规模/价值/盈利/投资因子构建与实证 |
-| **[TradingAgents多智能体LLM交易框架](./articles/O01-open-source-projects/O01-01-tradingagents-multi-agent-framework.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | TauricResearch开源的多Agent金融交易框架深度解析 |
-| **[长鑫科技IPO过会：国产存储龙头上市影响量化分析](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md)** | I05 | 2026-05-28 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，对科创板史上第二大IPO进行系统性量化分析，综合评分63.45分，评级C（中性） |
-| **[华为韬(τ)定律深度解析：后摩尔时代的芯片产业新范式](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md)** | I05 | 2026-05-29 | 🔴 高级 | 40min | 基于Dao Quant双引擎四层融合模型，深度解析华为韬定律技术原理与产业影响，识别先进封装、Chiplet投资机会，综合评分67.5分，评级B（推荐） |
-| **[Backtrader回测框架](./articles/O01-open-source-projects/O01-03-backtrader-python-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 21.7k+ Stars，最受欢迎的Python量化回测框架之王 |
-| **[Freqtrade加密货币机器人](./articles/O01-open-source-projects/O01-04-freqtrade-crypto-trading-bot.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 32k+ Stars，最流行的开源加密货币量化交易机器人 |
-| **[StockSharp C#交易平台](./articles/O01-open-source-projects/O01-05-stocksharp-csharp-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | C#开发的算法交易平台，支持股票/外汇/加密货币多市场 |
-| **[Riskfolio-Lib组合优化](./articles/O01-open-source-projects/O01-06-riskfolio-portfolio-optimization.md)** | O01 | 2026-05-27 | 🟡 中级 | 30min | Python投资组合优化库，现代投资组合理论实现 |
-| **[FinRL深度强化学习](./articles/O01-open-source-projects/O01-07-finrl-deep-reinforcement-learning.md)** | O01 | 2026-05-27 | 🔴 高级 | 40min | AI4Finance出品，深度强化学习量化交易框架 |
-| **[TradeMaster强化学习平台](./articles/O01-open-source-projects/O01-08-trademaster-rl-trading.md)** | O01 | 2026-05-27 | 🔴 高级 | 35min | NTU出品，专注强化学习的量化交易平台 |
-| **[VN.PY国产量化框架](./articles/O01-open-source-projects/O01-09-vnpy-python-trading-platform.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | 国内最流行的Python量化交易框架，支持CTP接口 |
-| **[宁德时代凝聚态电池技术突破：500Wh/kg航空级电池的商业化之路](./articles/C02-zz500/C02-04-catl-condensed-battery-analysis.md)** | C02 | 2026-06-01 | 🔴 高级 | 40min | 基于Dao Quant双引擎四层融合模型，解析宁德时代凝聚态电池500Wh/kg技术原理，分析航空+汽车双轮驱动商业化路径，综合评分70.95分，评级B（推荐） |
-| **[城市更新十五五规划出炉：十五万亿级市场与投资机遇分析](./articles/I03-real-estate/I03-04-urban-renewal-15th-five-year-plan.md)** | I03 | 2026-05-31 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，解读城市更新十五五规划核心指标与15-20万亿市场空间，识别建筑、建材、地产、管网投资机会，综合评分65.8分，评级B（推荐） |
-| **[算电协同提速：AI设施用电激增与绿色算力投资机遇](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md)** | I06 | 2026-05-30 | 🟡 中级 | 35min | 基于Dao Quant双引擎四层融合模型，分析AI数据中心用电量激增现象，识别液冷、绿电、储能投资机会，综合评分67.25分，评级B（推荐） |
-| **[Zipline回测引擎](./articles/O01-open-source-projects/O01-10-zipline-quantopian-backtesting.md)** | O01 | 2026-05-27 | 🟡 中级 | 35min | Quantopian出品的机构级Python回测框架 |
-| **[AI Hedge Fund传奇投资者Agent](./articles/O01-open-source-projects/O01-11-ai-hedge-fund-legendary-investors.md)** | O01 | 2026-06-04 | 🟡 中级 | 35min | 25k+ Stars，用19个LLM Agent模拟巴菲特/芒格/林奇等传奇投资者协作决策 |
-| **[Warren Buffett Agent：奥马哈先知的AI价值投资之道](./articles/O02-ai-hedge-fund-agents/O02-01-warren-buffett-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 深度解析巴菲特Agent的护城河分析、Owner Earnings计算与LLM提示词设计 |
-| **[Ben Graham Agent：证券分析之父的深度价值筛选法](./articles/O02-ai-hedge-fund-agents/O02-02-ben-graham-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 格雷厄姆净净股筛选、Graham Number公式与安全边际量化实现 |
-| **[Charlie Munger Agent：质量优先的多元思维模型](./articles/O02-ai-hedge-fund-agents/O02-03-charlie-munger-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 芒格Agent的ROIC持续性分析、质量>价格权重设计与巴菲特Agent对比 |
-| **[Michael Burry Agent：大空头的逆向深度价值猎手](./articles/O02-ai-hedge-fund-agents/O02-04-michael-burry-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 伯里Agent的逆向情绪分析、FCF收益率评分与硬催化剂识别机制 |
-| **[Mohnish Pabrai Agent：Dhandho投资的下行保护艺术](./articles/O02-ai-hedge-fund-agents/O02-05-mohnish-pabrai-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 帕布莱"正面我赢反面不输"哲学的量化实现与轻资产模式分析 |
-| **[Cathie Wood Agent：颠覆性创新的AI捕手](./articles/O02-ai-hedge-fund-agents/O02-06-cathie-wood-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 伍德Agent的高成长DCF模型（20%增长率）与经营杠杆分析 |
-| **[Phil Fisher Agent：闲话中的成长股猎手](./articles/O02-ai-hedge-fund-agents/O02-07-phil-fisher-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 费雪Scuttlebutt法的量化实现、CAGR计算与利润率稳定性分析 |
-| **[Peter Lynch Agent：十倍股猎手的GARP策略](./articles/O02-ai-hedge-fund-agents/O02-08-peter-lynch-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 林奇Agent的PEG核心指标、六种股票分类与十倍股识别逻辑 |
-| **[Growth Agent：纯量化增长评分引擎](./articles/O02-ai-hedge-fund-agents/O02-09-growth-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 唯一不使用LLM的Agent，线性回归趋势分析与五维度加权评分 |
-| **[Stanley Druckenmiller Agent：宏观传奇的不对称风险猎手](./articles/O02-ai-hedge-fund-agents/O02-10-stanley-druckenmiller-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 德鲁肯米勒Agent的价格动量评分、不对称风险回报与趋势跟踪 |
-| **[Nassim Taleb Agent：黑天鹅猎手的反脆弱投资框架](./articles/O02-ai-hedge-fund-agents/O02-11-nassim-taleb-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 塔勒布Agent的尾部风险（峰度/偏度）、反脆弱性与凸性分析 |
-| **[Bill Ackman Agent：激进主义者的质量投资法](./articles/O02-ai-hedge-fund-agents/O02-12-bill-ackman-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 阿克曼Agent的激进主义潜力分析、品牌护城河与简化DCF估值 |
-| **[Aswath Damodaran Agent：估值教父的学术DCF框架](./articles/O02-ai-hedge-fund-agents/O02-13-aswath-damodaran-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 达蒙达兰Agent的CAPM模型、"故事→数字→价值"叙事与FCFF DCF |
-| **[Rakesh Jhunjhunwala Agent：印度大牛的复合增长猎法](./articles/O02-ai-hedge-fund-agents/O02-14-rakesh-jhunjhunwala-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 强君胡瓦拉Agent的ROE导向、管理层行为分析与双轨信号生成 |
-| **[Valuation Agent：四模型加权的内在价值评估引擎](./articles/O02-ai-hedge-fund-agents/O02-15-valuation-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | DCF+Owner Earnings+EV/EBITDA+剩余收益四模型加权估值系统 |
-| **[Fundamentals Agent：四维度基本面量化评分系统](./articles/O02-ai-hedge-fund-agents/O02-16-fundamentals-agent.md)** | O02 | 2026-06-05 | 🟡 中级 | 30min | 盈利能力/增长/财务健康/估值比率四维度多数决评分系统 |
-| **[Technicals Agent：五策略集成的量化技术分析系统](./articles/O02-ai-hedge-fund-agents/O02-17-technicals-agent.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 趋势跟踪+均值回归+动量+波动率+统计套利五策略加权集成 |
-| **[Risk Manager：波动率-相关性动态仓位控制系统](./articles/O02-ai-hedge-fund-agents/O02-18-risk-manager.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 波动率四级仓位限制+相关性调整乘数+双重约束机制 |
-| **[Portfolio Manager：多Agent信号聚合的最终决策引擎](./articles/O02-ai-hedge-fund-agents/O02-19-portfolio-manager.md)** | O02 | 2026-06-05 | 🔴 高级 | 35min | 19个Agent信号聚合+预过滤优化+LLM紧凑决策+确定性约束 |
-| **[CAPM资本资产定价模型详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md)** | R05 | 2026-06-01 | 🟡 中级 | 35min | 系统阐述CAPM理论基础、核心公式、Beta系数计算、假设条件及A股实证分析 |
-| **[CAPM模型Python实战指南](./articles/R05-literature/R05-06-CAPM-python-implementation.md)** | R05 | 2026-06-01 | 🟡 中级 | 40min | 基于Python实现CAPM完整分析流程，涵盖数据获取、Beta计算、Alpha分析与可视化 |
-| **[Fama-French多因子模型详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析三因子与五因子模型理论基础、因子构建方法、实证检验及A股应用 |
-| **[Fama-French多因子模型Python实战指南](./articles/R05-literature/R05-08-fama-french-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现Fama-French因子构建、回归分析，投资组合构建与回测 |
-| **[APT套利定价理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 40min | 深入解析APT理论基础、与CAPM比较、因子识别方法、实证检验及量化应用 |
-| **[APT套利定价理论Python实战指南](./articles/R05-literature/R05-10-apt-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 基于Python实现APT因子识别、载荷估计、Fama-MacBeth回归与套利策略 |
-| **[Markowitz均值-方差模型理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析Markowitz均值-方差优化模型的理论基础、有效前沿构建、最优组合求解及A股应用 |
-| **[Markowitz均值-方差模型Python实战指南](./articles/R05-literature/R05-12-markowitz-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现有效前沿构建、最优组合求解、风险贡献分析与回测验证 |
-| **[Black-Litterman模型理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md)** | R05 | 2026-06-01 | 🔴 高级 | 45min | 深入解析BL模型贝叶斯框架、观点融合机制、参数设定及资产配置应用 |
-| **[Black-Litterman模型Python实战指南](./articles/R05-literature/R05-14-black-litterman-python-implementation.md)** | R05 | 2026-06-01 | 🔴 高级 | 50min | 基于Python实现BL模型完整流程，涵盖均衡收益计算、观点设定、后验融合与回测 |
-| **[基本面α因子研究最佳实践](./articles/M06-factor-validation/M06-04-fundamental-alpha-factor-research.md)** | M06 | 2026-06-04 | 🔴 高级 | 45min | 系统阐述基本面α因子研究的完整方法论，包括因子构建、IC测试、分层回测、因子正交化及组合优化 |
-| **[Serenity 瓶颈投资方法论深度研究：紫苏叶理论与供应链逆向拆解](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md)** | R04 | 2026-06-08 | 🔴 高级 | 50min | 深度研究X平台匿名投资者Serenity的瓶颈投资方法论，系统梳理Chokepoint Theory、AI产业链七层模型、代表性案例及可复制的四问筛选法 |
-| **[SpaceX IPO 深度影响分析：万亿航天巨头的资本盛宴与产业链重塑](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md)** | I10 | 2026-06-09 | 🔴 高级 | 45min | 深度分析SpaceX计划于2026年6月12日登陆纳斯达克的IPO事件，涵盖750亿美元募资规模、1.75万亿美元估值合理性、A股核心受益企业梳理、短期情绪催化与长期产业重塑逻辑 |
-| **[六氟化钨（WF6）产业链深度分析：从隐形基石到资源反制](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md)** | I05 | 2026-06-10 | 🔴 高级 | 40min | 深度分析六氟化钨在半导体制造中的战略地位、全球供需格局、中国钨资源反制逻辑、核心企业产能梳理及投资风险，国产替代率突破65% |
-| **[大型体育赛事对市场影响深度分析：以2026美加墨世界杯为例](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md)** | I07 | 2026-06-11 | 🟡 中级 | 35min | 以2026世界杯（48队104场史上最大规模）为案例，分析大型体育赛事对资本市场的多层次影响，涵盖产业链四大赛道、世界杯魔咒统计验证与事件驱动投资框架 |
-| **[A股情绪量化方法论深度研究：大盘·行业·概念·个股四层体系](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md)** | M03 | 2026-06-12 | 🔴 高级 | 45min | 系统构建A股情绪量化四层方法论体系，涵盖100+情绪指标分类、恐慌贪婪指数、情绪周期模型（冰点→修复→高潮→分歧）、概念热度生命周期模型及Python实现框架 |
-| **[物理AI（Physical AI）产业链深度拆解：从虚拟智能到实体智能的五层架构](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md)** | I05 | 2026-06-13 | 🔴 高级 | 40min | 系统拆解物理AI产业链五层架构：仿真引擎（索辰科技）、算力底座（工业富联/浪潮信息）、感知层（奥比中光/柯力传感）、执行层（绿的谐波/拓普集团）、整机应用（埃斯顿/九号公司），涵盖30+核心企业业务梳理与国产替代进展 |
-| **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min | 系统梳理A股大盘阶段判断六大量化方法：五维择时模型、隐马尔可夫状态识别（HMM+动态调制）、估值水位分析、市场宽度与微观结构指标、库存周期定位、调整级别量化判定，构建从宏观到微观的全方位市场阶段判断工具箱 |
-| **[国泰君安191因子（GTJA191）量化分析方法深度研究](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md)** | M06 | 2026-06-15 | 🔴 高级 | 50min | 深度解析国泰君安191因子完整方法论，涵盖191个因子的六大因子族分类（量价相关性/量价变化幅度/时间序列排名/多空力量/移动平均/回归残差）、16种核心算子体系、IC/IR有效性检验、因子降维与合成策略、因子衰减应对方案及Python实现框架 |
-| **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min | 国泰君安191因子完整公式表原文档，包含Alpha1至Alpha191的全部公式文本、统一算子定义、使用提示及可直接导入的文本版 |
-| **[WorldQuant 101因子（Alpha101）量化分析方法深度研究](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md)** | M06 | 2026-06-16 | 🔴 高级 | 55min | 深度解析WorldQuant Alpha101完整方法论，涵盖101个因子的四大投资原理分类（量价理论45%/均值回归30%/动量15%/蜡烛图理论10%）、20+种核心算子、五大量化构建手段、核心因子逐个解读、BRAIN竞赛指南及Python实现框架 |
-| **[A股各板块轮动规律的量化分析方法](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md)** | M03 | 2026-06-17 | 🔴 高级 | 50min | 系统梳理A股板块轮动四大维度（行业/风格/大小盘/主题）、经济周期驱动框架（美林时钟/库存周期）、六大量化轮动模型（动量/均值回归/RSI/均线能量/宏观因子/多策略融合）、ETF轮动实战策略及Python实现框架 |
-| **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min | 系统构建FOMC议息会议量化分析全框架，涵盖利率决议超预期度量、声明文本NLP鹰鸽情感分析、点阵图与SEP量化解读、事件窗口资产反应统计、A股三大传导渠道建模、四类事件驱动策略构建及完整六步实战分析流程 |
+| 文章 | 分类 | 日期 | 难度 | 阅读时间 |
+|------|------|------|:----:|:--------:|
+| **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min |
+| **[A股各板块轮动规律的量化分析方法](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md)** | M03 | 2026-06-17 | 🔴 高级 | 50min |
+| **[WorldQuant 101因子（Alpha101）量化分析方法深度研究](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md)** | M06 | 2026-06-16 | 🔴 高级 | 55min |
+| **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
+| **[国泰君安191因子（GTJA191）量化分析方法深度研究](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md)** | M06 | 2026-06-15 | 🔴 高级 | 50min |
+| **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
+| **[物理AI（Physical AI）产业链深度拆解：从虚拟智能到实体智能的五层架构](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md)** | I05 | 2026-06-13 | 🔴 高级 | 40min |
+| **[A股情绪量化方法论深度研究：大盘·行业·概念·个股四层体系](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md)** | M03 | 2026-06-12 | 🔴 高级 | 45min |
+| **[大型体育赛事对市场影响深度分析：以2026美加墨世界杯为例](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md)** | I07 | 2026-06-11 | 🟡 中级 | 35min |
+| **[六氟化钨（WF6）产业链深度分析：从隐形基石到资源反制](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md)** | I05 | 2026-06-10 | 🔴 高级 | 40min |
+
+> 📌 **查看更多**：完整 **140** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -297,111 +241,86 @@ dao-quant-research/
 
 ---
 
+## 🏗️ 模型概述
+
+### 双引擎四层融合模型
+
+**Dao Quant** 采用 **"双引擎四层融合模型"** 对 A 股进行量化评估：
+
+- **基本面引擎（60%）**：盈利能力、成长能力、估值水平、财务健康
+- **量价引擎（25%）**：趋势分析、量价配合、资金流向、筹码分布
+- **风控引擎（15%）**：波动率、回撤控制、集中度、流动性
+
+最终输出 **0-100 分** 的综合评分与 **五档评级**（S/A/B/C/D）。
+
+### 核心特色
+
+| 特色 | 说明 |
+|------|------|
+| 🔄 **动态权重** | 根据市场环境自动调整各引擎权重 |
+| 📊 **多因子融合** | 综合 30+ 个量化因子，避免单一指标偏差 |
+| 🎯 **可解释性** | 每个评分都有明确的因子贡献分解 |
+| ⚡ **实时更新** | 支持日度/周度数据更新与评分刷新 |
+
+---
+
 ## 🚀 快速开始
 
-### 对于读者
+### 阅读顺序建议
 
-1. **按分类浏览**：点击上方目录中的分类链接
-2. **按标签搜索**：查看文章 Frontmatter 中的 `tags` 字段
-3. **查看最新**：关注 `status: published` 且日期较新的文章
-
-### 对于贡献者
-
-1. **阅读写作规范**：[WRITING-GUIDELINES.md](./WRITING-GUIDELINES.md)
-2. **阅读提交规范**：[COMMIT-GUIDELINES.md](./COMMIT-GUIDELINES.md)
-3. **复制文章模板**：[templates/article-template.md](./templates/article-template.md)
-4. **选择分类目录**：根据内容选择 `articles/` 下的对应子目录
-5. **按规范命名文件**：`{分类代码}-{序号}-{kebab-case标题}.md`
-6. **填写 Frontmatter**：所有必填字段必须完整
-7. **质量检查**：对照规范中的检查清单自查
-
----
-
-## 📝 写作规范速查
-
-### 文件命名
 ```
-M01-01-model-overview.md           # 模型总览第1篇
-I07-02-baijiu-sector.md            # 行业研究-消费-白酒板块
-C01-05-pingan-bank.md              # 个股案例-平安银行
+1. 了解模型 → [模型架构总览](./articles/M01-model-overview/M01-01-dao-quant-model-overview.md)
+2. 学习引擎 → [基本面引擎](./articles/M02-fundamental-engine/M02-01-fundamental-engine-overview.md) / [量价引擎](./articles/M03-volume-price-engine/M03-01-volume-price-engine-overview.md)
+3. 查看案例 → [行业研究](./articles/I01-banking/) / [个股分析](./articles/C01-hs300/)
+4. 深入方法 → [研究工具](./articles/R01-tools/) / [回测方法](./articles/R03-backtesting/)
 ```
 
-### Frontmatter 必填字段
-```yaml
----
-title: "文章标题"
-date: "2026-05-20"
-author: "laozdao"
-category: "M01"                       # 分类代码
-tags: ["标签1", "标签2", "标签3"]
-status: "published"                   # draft/published/archived/updated
-version: "1.0"
-summary: "100-200字摘要"
-difficulty: "intermediate"            # beginner/intermediate/advanced
-reading_time: 30                      # 预估阅读时间（分钟）
----
-```
+### 环境准备
 
-### 文章结构
-```markdown
-# 标题
+```bash
+# 克隆仓库
+git clone https://github.com/laozdao/dao-quant-research.git
 
-> 一句话摘要（30字以内）
-
-## 一、引言/背景
-## 二、核心内容
-## 三、结论与启示
-## 四、附录（可选）
-## 参考文献
-
----
-> ⚠️ 免责声明：本文仅供学习研究，不构成投资建议。
+# 安装依赖（如需运行代码示例）
+pip install pandas numpy matplotlib seaborn tushare akshare backtrader
 ```
 
 ---
 
-## 📋 引用方式
+## 🤝 贡献指南
 
-如果本仓库的研究内容对您有帮助，请引用：
+欢迎提交 Issue 和 PR！请参考：
 
-### BibTeX
+- [写作规范](WRITING-GUIDELINES.md) - 文章格式与内容标准
+- [提交规范](COMMIT-GUIDELINES.md) - Git 提交信息规范
 
-```bibtex
-@misc{laozdao2026daoquant,
-  author       = {laozdao},
-  title        = {Dao Quant Research: A-Share Quantitative Analysis Study},
-  year         = {2026},
-  howpublished = {\url{https://github.com/laozdao/dao-quant-research}},
-  note         = {Accessed: YYYY-MM-DD}
-}
+### 文章命名规范
+
 ```
+{分类代码}-{序号}-{文章标题英文简写}.md
 
-### APA
-
-> laozdao. (2026). *Dao Quant Research: A-Share Quantitative Analysis Study*. GitHub. https://github.com/laozdao/dao-quant-research
-
----
-
-## 🤝 参与贡献
-
-欢迎通过以下方式参与：
-
-- 🐛 提交 [Issue](../../issues) — 报告错误或提出建议
-- 📝 提交 PR — 按写作规范提交新文章或修正
-- 💬 讨论 — 在 Issue 中分享你的量化研究心得
+示例：
+- M01-01-dao-quant-model-overview.md
+- I05-03-ai-chip-computing-demand.md
+- C01-02-maotai-quantitative-analysis.md
+```
 
 ---
 
 ## 📄 许可证
 
-本仓库采用 [MIT License](./LICENSE) 开源。
+本项目采用 [MIT License](LICENSE) 开源协议。
 
 ---
 
-## ⚠️ 免责声明
+## 📬 联系方式
 
-> **本仓库所有研究文章仅供学习研究交流，不构成任何投资建议。**
->
-> - 模型评分基于历史数据，过往表现不代表未来收益
-> - 股市有风险，投资需谨慎
-> - 作者不对因使用本仓库内容而造成的任何损失承担责任
+- GitHub Issues: [提交问题或建议](https://github.com/laozdao/dao-quant-research/issues)
+- 邮箱: dao.quant.research@example.com
+
+---
+
+<p align="center">
+  <em>"知者不惑，仁者不忧，勇者不惧"</em><br>
+  <strong>以量化之道，探投资之真</strong>
+</p>
