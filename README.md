@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **142** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **143** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | **38** | 3.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **39** | 3.9篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **28** | 5.6篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **142** | **4.9篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **143** | **4.9篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -76,8 +76,9 @@
 
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
-| **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min |
+| **[金刚石散热材料概念量化研究](./articles/I10-manufacturing/I10-05-diamond-heat-dissipation-quantification.md)** | I10 | 2026-06-23 | 🔴 高级 | 55min |
 | **[a-stock-data：A股全栈数据工具包，零依赖直连13大数据源](./articles/O01-open-source-projects/O01-13-a-stock-data-fullstack-toolkit.md)** | O01 | 2026-06-22 | 🟡 中级 | 35min |
+| **[美联储议息会议结论的量化分析方法](./articles/M03-volume-price-engine/M03-08-fomc-quantification.md)** | M03 | 2026-06-18 | 🔴 高级 | 55min |
 | **[AI-Trader：港大HKUDS出品的Agent原生AI交易平台](./articles/O01-open-source-projects/O01-12-ai-trader-agent-native-platform.md)** | O01 | 2026-06-19 | 🟡 中级 | 35min |
 | **[A股各板块轮动规律的量化分析方法](./articles/M03-volume-price-engine/M03-07-sector-rotation-quantification.md)** | M03 | 2026-06-17 | 🔴 高级 | 50min |
 | **[WorldQuant 101因子（Alpha101）量化分析方法深度研究](./articles/M06-factor-validation/M06-07-worldquant-alpha101-analysis.md)** | M06 | 2026-06-16 | 🔴 高级 | 55min |
@@ -85,11 +86,8 @@
 | **[国泰君安191因子（GTJA191）量化分析方法深度研究](./articles/M06-factor-validation/M06-05-gtja191-factor-analysis.md)** | M06 | 2026-06-15 | 🔴 高级 | 50min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 | **[物理AI（Physical AI）产业链深度拆解：从虚拟智能到实体智能的五层架构](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md)** | I05 | 2026-06-13 | 🔴 高级 | 40min |
-| **[A股情绪量化方法论深度研究：大盘·行业·概念·个股四层体系](./articles/M03-volume-price-engine/M03-05-market-sentiment-quantification.md)** | M03 | 2026-06-12 | 🔴 高级 | 45min |
-| **[大型体育赛事对市场影响深度分析：以2026美加墨世界杯为例](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md)** | I07 | 2026-06-11 | 🟡 中级 | 35min |
-| **[六氟化钨（WF6）产业链深度分析：从隐形基石到资源反制](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md)** | I05 | 2026-06-10 | 🔴 高级 | 40min |
 
-> 📌 **查看更多**：完整 **142** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **143** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -124,7 +122,7 @@
 | [消费](./articles/I07-consumer/) | I07 | **4** | 白酒、食品饮料、家电、体育消费 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) · [体育赛事影响](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **3** | 钢铁、煤炭、化工、有色 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **3** | 互联网、软件、传媒、通信 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) |
-| [制造](./articles/I10-manufacturing/) | I10 | **4** | 机械、汽车、军工、电力设备 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) |
+| [制造](./articles/I10-manufacturing/) | I10 | **5** | 机械、汽车、军工、电力设备、金刚石散热 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) · [金刚石散热量化](./articles/I10-manufacturing/I10-05-diamond-heat-dissipation-quantification.md) |
 
 #### C - 个股案例（Case Studies）
 
