@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **147** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **148** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | **41** | 4.1篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | **30** | 6.0篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **R - 研究方法论** | 5 | **31** | 6.2篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **147** | **5.1篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **148** | **5.1篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -76,6 +76,7 @@
 
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
+| **[日韩股市剧烈波动对A股影响的深度量化分析](./articles/R04-essays/R04-07-japan-korea-stock-volatility-a-share-impact-quantification.md)** | R04 | 2026-06-28 | 🔴 高级 | 55min |
 | **[1-5月规模以上工业企业利润增长18.8%对股市影响的量化分析](./articles/R04-essays/R04-06-industrial-profit-june2026-quantification.md)** | R04 | 2026-06-27 | 🔴 高级 | 55min |
 | **[新型能源体系"十五五"规划对股市影响的量化分析](./articles/I06-new-energy/I06-05-new-energy-system-15th-five-year-quantification.md)** | I06 | 2026-06-26 | 🔴 高级 | 55min |
 | **[美光科技FY26Q3财报对股市影响的量化分析](./articles/I05-semiconductor/I05-08-micron-fy26q3-earnings-impact-quantification.md)** | I05 | 2026-06-25 | 🔴 高级 | 55min |
@@ -89,7 +90,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 
-> 📌 **查看更多**：完整 **147** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **148** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -147,7 +148,7 @@
 | [研究工具](./articles/R01-tools/) | R01 | **3** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) · [Python工具链](./articles/R01-tools/R01-02-python-quant-toolchain.md) · [量化平台对比](./articles/R01-tools/R01-03-quant-platform-comparison.md) |
 | [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
-| [研究随笔](./articles/R04-essays/) | R04 | **6** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) · [Serenity瓶颈投资方法论](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md) · [AI产业链影响量化](./articles/R04-essays/R04-05-ai-industry-impact-quantification.md) · [工业利润量化分析](./articles/R04-essays/R04-06-industrial-profit-june2026-quantification.md) |
+| [研究随笔](./articles/R04-essays/) | R04 | **7** | 投资感悟、市场观察、失败总结 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) · [Serenity瓶颈投资方法论](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md) · [AI产业链影响量化](./articles/R04-essays/R04-05-ai-industry-impact-quantification.md) · [工业利润量化分析](./articles/R04-essays/R04-06-industrial-profit-june2026-quantification.md) · [日韩股市波动量化](./articles/R04-essays/R04-07-japan-korea-stock-volatility-a-share-impact-quantification.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
 #### O - 开源项目（Open Source Projects）
