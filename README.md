@@ -62,11 +62,11 @@
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | **51** | 5.1篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **52** | 5.2篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **35** | 7.0篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **163** | **5.6篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **164** | **5.7篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -76,6 +76,7 @@
 
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
+| **[猪养殖周期规律的变化与现状量化分析](./articles/I08-cyclical/I08-09-pig-farming-cycle-change-quantification.md)** | I08 | 2026-07-02 | 🔴 高级 | 55min |
 | **[八部门工业互联网+AI实施意见对A股影响的量化分析](./articles/I09-tmt/I09-06-industrial-internet-ai-implementation-quantification.md)** | I09 | 2026-07-01 | 🔴 高级 | 55min |
 | **[工业气体产业链量化选股模型与投资策略](./articles/R04-essays/R04-11-industrial-gas-portfolio-selection-strategy-quantification.md)** | R04 | 2026-06-30 | 🔴 高级 | 55min |
 | **[稀有气体氦氖氪氙战略资源稀缺性量化分析](./articles/I08-cyclical/I08-08-gas-rare-noble-helium-neon-krypton-xenon-quantification.md)** | I08 | 2026-06-30 | 🔴 高级 | 55min |
@@ -105,7 +106,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 
-> 📌 **查看更多**：完整 **163** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **164** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -138,7 +139,7 @@
 | [电子半导体](./articles/I05-semiconductor/) | I05 | **11** | 芯片、消费电子、半导体设备、物理AI、美光财报、长鑫存储、电子特气、芯片清洗气体 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-computing-demand.md) · [长鑫科技IPO](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md) · [华为韬定律](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md) · [六氟化钨分析](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md) · [物理AI产业链](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md) · [美光财报量化](./articles/I05-semiconductor/I05-08-micron-fy26q3-earnings-impact-quantification.md) · [长鑫存储IPO估值重塑](./articles/I05-semiconductor/I05-09-cxmt-ipo-semiconductor-valuation-reshape-quantification.md) · [氩气CO₂芯片清洗](./articles/I05-semiconductor/I05-10-gas-argon-co2-chip-cleaning-quantification.md) · [电子特气量化](./articles/I05-semiconductor/I05-11-gas-electronic-special-semiconductor-quantification.md) |
 | [新能源](./articles/I06-new-energy/) | I06 | **6** | 光伏、锂电、储能、新能源车、新型能源体系、氢能 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) · [算电协同](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md) · [新型能源体系十五五量化](./articles/I06-new-energy/I06-05-new-energy-system-15th-five-year-quantification.md) · [氢气碳中和量化](./articles/I06-new-energy/I06-06-gas-hydrogen-carbon-neutral-quantification.md) |
 | [消费](./articles/I07-consumer/) | I07 | **5** | 白酒、食品饮料、家电、体育消费、以旧换新 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) · [体育赛事影响](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md) · [以旧换新量化](./articles/I07-consumer/I07-05-trade-in-subsidy-consumption-chain-quantification.md) |
-| [周期](./articles/I08-cyclical/) | I08 | **8** | 钢铁、煤炭、化工、有色、地缘冲突、工业气体 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) · [氧化钇概念量化](./articles/I08-cyclical/I08-04-yttria-concept-quantification.md) · [美伊冲突油价量化](./articles/I08-cyclical/I08-05-iran-conflict-oil-price-a-share-impact-quantification.md) · [工业气体全景](./articles/I08-cyclical/I08-06-industrial-gas-overview-market-landscape-quantification.md) · [氧气氮气量化](./articles/I08-cyclical/I08-07-gas-oxygen-nitrogen-air-separation-quantification.md) · [稀有气体量化](./articles/I08-cyclical/I08-08-gas-rare-noble-helium-neon-krypton-xenon-quantification.md) |
+| [周期](./articles/I08-cyclical/) | I08 | **9** | 钢铁、煤炭、化工、有色、地缘冲突、工业气体、生猪养殖 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) · [氧化钇概念量化](./articles/I08-cyclical/I08-04-yttria-concept-quantification.md) · [美伊冲突油价量化](./articles/I08-cyclical/I08-05-iran-conflict-oil-price-a-share-impact-quantification.md) · [工业气体全景](./articles/I08-cyclical/I08-06-industrial-gas-overview-market-landscape-quantification.md) · [氧气氮气量化](./articles/I08-cyclical/I08-07-gas-oxygen-nitrogen-air-separation-quantification.md) · [稀有气体量化](./articles/I08-cyclical/I08-08-gas-rare-noble-helium-neon-krypton-xenon-quantification.md) · [猪养殖周期量化](./articles/I08-cyclical/I08-09-pig-farming-cycle-change-quantification.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **5** | 互联网、软件、传媒、通信、MLCC、工业互联网 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) · [MLCC超级周期量化](./articles/I09-tmt/I09-05-mlcc-super-cycle-ai-ev-quantification.md) · [工业互联网AI量化](./articles/I09-tmt/I09-06-industrial-internet-ai-implementation-quantification.md) |
 | [制造](./articles/I10-manufacturing/) | I10 | **5** | 机械、汽车、军工、电力设备、金刚石散热 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) · [金刚石散热量化](./articles/I10-manufacturing/I10-05-diamond-heat-dissipation-quantification.md) |
 
