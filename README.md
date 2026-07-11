@@ -62,11 +62,11 @@
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | **58** | 5.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **59** | 5.9篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **37** | 7.4篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **172** | **5.9篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **173** | **6.0篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -76,6 +76,7 @@
 
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
+| **[长征十号乙海上网系回收成功：中国商业航天可回收拐点深度量化分析](./articles/I10-manufacturing/I10-06-cz10b-maritime-net-recovery-a-share-quantification.md)** | I10 | 2026-07-11 | 🔴 高级 | 55min |
 | **["十五五"碳达峰行动方案：储能与虚拟电厂爆发的前夜量化分析](./articles/I06-new-energy/I06-08-carbon-peak-15th-five-year-energy-storage-vpp-quantification.md)** | I06 | 2026-07-09 | 🔴 高级 | 55min |
 | **[DeepSeek V4正式发布与自研推理芯片对A股的深度量化分析](./articles/I05-semiconductor/I05-13-deepseek-v4-chip-a-share-impact-quantification.md)** | I05 | 2026-07-09 | 🔴 高级 | 55min |
 | **[旅游强国建设十五五规划对A股文旅板块影响的深度量化分析](./articles/I07-consumer/I07-06-tourism-powerhouse-15th-five-year-quantification.md)** | I07 | 2026-07-07 | 🔴 高级 | 55min |
@@ -114,7 +115,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 
-> 📌 **查看更多**：完整 **172** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **173** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -149,7 +150,7 @@
 | [消费](./articles/I07-consumer/) | I07 | **6** | 白酒、食品饮料、家电、体育消费、以旧换新、旅游强国 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) · [体育赛事影响](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md) · [以旧换新量化](./articles/I07-consumer/I07-05-trade-in-subsidy-consumption-chain-quantification.md) · [旅游强国十五五量化](./articles/I07-consumer/I07-06-tourism-powerhouse-15th-five-year-quantification.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **9** | 钢铁、煤炭、化工、有色、地缘冲突、工业气体、生猪养殖 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) · [氧化钇概念量化](./articles/I08-cyclical/I08-04-yttria-concept-quantification.md) · [美伊冲突油价量化](./articles/I08-cyclical/I08-05-iran-conflict-oil-price-a-share-impact-quantification.md) · [工业气体全景](./articles/I08-cyclical/I08-06-industrial-gas-overview-market-landscape-quantification.md) · [氧气氮气量化](./articles/I08-cyclical/I08-07-gas-oxygen-nitrogen-air-separation-quantification.md) · [稀有气体量化](./articles/I08-cyclical/I08-08-gas-rare-noble-helium-neon-krypton-xenon-quantification.md) · [猪养殖周期量化](./articles/I08-cyclical/I08-09-pig-farming-cycle-change-quantification.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **6** | 互联网、软件、传媒、通信、MLCC、工业互联网、大模型 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) · [MLCC超级周期量化](./articles/I09-tmt/I09-05-mlcc-super-cycle-ai-ev-quantification.md) · [工业互联网AI量化](./articles/I09-tmt/I09-06-industrial-internet-ai-implementation-quantification.md) · [大模型A股上市影响量化](./articles/I09-tmt/I09-07-ai-model-a-share-ipo-impact-quantification.md) |
-| [制造](./articles/I10-manufacturing/) | I10 | **5** | 机械、汽车、军工、电力设备、金刚石散热 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) · [金刚石散热量化](./articles/I10-manufacturing/I10-05-diamond-heat-dissipation-quantification.md) |
+| [制造](./articles/I10-manufacturing/) | I10 | **6** | 机械、汽车、军工、电力设备、金刚石散热、商业航天 | [行业分析](./articles/I10-manufacturing/I10-01-manufacturing-analysis.md) · [高端制造](./articles/I10-manufacturing/I10-02-high-end-manufacturing-barriers.md) · [工业机器人](./articles/I10-manufacturing/I10-03-industrial-robot-automation.md) · [SpaceX IPO影响分析](./articles/I10-manufacturing/I10-04-spacex-ipo-impact-analysis.md) · [金刚石散热量化](./articles/I10-manufacturing/I10-05-diamond-heat-dissipation-quantification.md) · [长征十号乙海上网系回收量化](./articles/I10-manufacturing/I10-06-cz10b-maritime-net-recovery-a-share-quantification.md) |
 
 #### C - 个股案例（Case Studies）
 
