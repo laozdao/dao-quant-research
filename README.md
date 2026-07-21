@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **183** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **184** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **183** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **184** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
 | **I - 行业研究** | 10 | **62** | 6.2篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
-| **R - 研究方法论** | 5 | **44** | 8.8篇 | 工具/数据处理/回测/随笔/文献综述 |
+| **R - 研究方法论** | 5 | **45** | 9.0篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **183** | **6.3篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **184** | **6.3篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -83,6 +83,7 @@
 | **[美国CPI六年来首现环比负增长：通胀拐点与A股配置策略量化分析](./articles/R04-essays/R04-15-us-cpi-negative-june2026-a-share-impact-quantification.md)** | R04 | 2026-07-15 | 🔴 高级 | 55min |
 | **[2026上半年金融数据深度量化分析：社融20.84万亿结构性变革](./articles/R04-essays/R04-16-h1-2026-financial-data-structural-change-a-share-quantification.md)** | R04 | 2026-07-16 | 🔴 高级 | 55min |
 | **[韩国杠杆ETF监管风暴：KOSPI暴跌与A股传导深度量化分析](./articles/R04-essays/R04-17-korea-leveraged-etf-ban-a-share-impact-quantification.md)** | R04 | 2026-07-17 | 🔴 高级 | 55min |
+| **[Cell重磅：中国科学家破译玉米高产密码与种业产业化拐点深度量化分析](./articles/R04-essays/R04-21-maize-harvest-index-cell-breakthrough-seed-industry-a-share-quantification.md)** | R04 | 2026-07-22 | 🔴 高级 | 55min |
 | **[央企领衔A股回购增持潮：500亿国新资金入场与市场底信号深度量化分析](./articles/R04-essays/R04-20-cso-led-buyback-surge-a-share-impact-quantification.md)** | R04 | 2026-07-20 | 🔴 高级 | 55min |
 | **[工信部2026上半年工业和信息化发展情况深度量化分析：通信网升级、AI赋能与装备工业出口的A股投资机遇](./articles/R04-essays/R04-19-miit-h1-2026-industrial-telecom-development-a-share-quantification.md)** | R04 | 2026-07-20 | 🔴 高级 | 55min |
 | **[中国经济2026上半年半年报：五关键词解码新质生产力驱动的结构性变革与A股投资策略量化分析](./articles/R04-essays/R04-18-h1-2026-economy-half-year-report-a-share-quantification.md)** | R04 | 2026-07-19 | 🔴 高级 | 55min |
@@ -125,7 +126,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 
-> 📌 **查看更多**：完整 **183** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **184** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -183,7 +184,7 @@
 | [研究工具](./articles/R01-tools/) | R01 | **3** | 数据源、Python库、可视化工具 | [工具与数据源](./articles/R01-tools/R01-01-research-tools-and-data-sources.md) · [Python工具链](./articles/R01-tools/R01-02-python-quant-toolchain.md) · [量化平台对比](./articles/R01-tools/R01-03-quant-platform-comparison.md) |
 | [数据处理](./articles/R02-data-processing/) | R02 | **3** | 数据清洗、特征工程、标准化 | [数据处理与特征工程](./articles/R02-data-processing/R02-01-data-processing-and-feature-engineering.md) · [数据清洗](./articles/R02-data-processing/R02-02-financial-data-cleaning-outliers.md) · [特征工程](./articles/R02-data-processing/R02-03-factor-construction-feature-engineering.md) |
 | [回测方法](./articles/R03-backtesting/) | R03 | **4** | 回测框架、趋势判断、过拟合防范 | [回测方法与框架](./articles/R03-backtesting/R03-01-backtesting-methods-and-frameworks.md) · [交叉验证](./articles/R03-backtesting/R03-02-cross-validation-overfitting.md) · [事件驱动回测](./articles/R03-backtesting/R03-03-event-driven-backtest.md) · [ETF趋势分析](./articles/R03-backtesting/R03-04-etf-trend-analysis-framework.md) |
-| [研究随笔](./articles/R04-essays/) | R04 | **20** | 投资感悟、市场观察、宏观量化 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) · [Serenity瓶颈投资方法论](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md) · [AI产业链影响量化](./articles/R04-essays/R04-05-ai-industry-impact-quantification.md) · [工业利润量化分析](./articles/R04-essays/R04-06-industrial-profit-june2026-quantification.md) · [日韩股市波动量化](./articles/R04-essays/R04-07-japan-korea-stock-volatility-a-share-impact-quantification.md) · [央行证监会政策共振](./articles/R04-essays/R04-08-pboc-csrc-policy-resonance-june2026-quantification.md) · [美联储降息资金面](./articles/R04-essays/R04-09-fed-rate-cut-a-share-capital-flow-quantification.md) · [解禁潮冲击量化](./articles/R04-essays/R04-10-a-share-unlock-wave-june2026-impact-quantification.md) · [工业气体选股策略](./articles/R04-essays/R04-11-industrial-gas-portfolio-selection-strategy-quantification.md) · [美国非农爆冷量化](./articles/R04-essays/R04-12-us-nfp-june2026-a-share-impact-quantification.md) · [交易新规ST涨跌幅量化](./articles/R04-essays/R04-13-a-share-trading-rules-st-limit-10pct-quantification.md) · [台风灾害A股影响量化](./articles/R04-essays/R04-14-typhoon-annual-impact-a-share-quantification.md) · [美国CPI负增长A股量化](./articles/R04-essays/R04-15-us-cpi-negative-june2026-a-share-impact-quantification.md) · [上半年金融数据量化](./articles/R04-essays/R04-16-h1-2026-financial-data-structural-change-a-share-quantification.md) · [韩国杠杆ETF监管量化](./articles/R04-essays/R04-17-korea-leveraged-etf-ban-a-share-impact-quantification.md) · [经济半年报A股量化](./articles/R04-essays/R04-18-h1-2026-economy-half-year-report-a-share-quantification.md) · [工信部工信发展量化](./articles/R04-essays/R04-19-miit-h1-2026-industrial-telecom-development-a-share-quantification.md) · [央企回购增持量化](./articles/R04-essays/R04-20-cso-led-buyback-surge-a-share-impact-quantification.md) |
+| [研究随笔](./articles/R04-essays/) | R04 | **21** | 投资感悟、市场观察、宏观量化 | [研究随笔与感悟](./articles/R04-essays/R04-01-research-essays-and-insights.md) · [认知偏差](./articles/R04-essays/R04-02-cognitive-bias-quant-investing.md) · [量化心路历程](./articles/R04-essays/R04-03-quant-investing-journey.md) · [Serenity瓶颈投资方法论](./articles/R04-essays/R04-04-serenity-chokepoint-theory.md) · [AI产业链影响量化](./articles/R04-essays/R04-05-ai-industry-impact-quantification.md) · [工业利润量化分析](./articles/R04-essays/R04-06-industrial-profit-june2026-quantification.md) · [日韩股市波动量化](./articles/R04-essays/R04-07-japan-korea-stock-volatility-a-share-impact-quantification.md) · [央行证监会政策共振](./articles/R04-essays/R04-08-pboc-csrc-policy-resonance-june2026-quantification.md) · [美联储降息资金面](./articles/R04-essays/R04-09-fed-rate-cut-a-share-capital-flow-quantification.md) · [解禁潮冲击量化](./articles/R04-essays/R04-10-a-share-unlock-wave-june2026-impact-quantification.md) · [工业气体选股策略](./articles/R04-essays/R04-11-industrial-gas-portfolio-selection-strategy-quantification.md) · [美国非农爆冷量化](./articles/R04-essays/R04-12-us-nfp-june2026-a-share-impact-quantification.md) · [交易新规ST涨跌幅量化](./articles/R04-essays/R04-13-a-share-trading-rules-st-limit-10pct-quantification.md) · [台风灾害A股影响量化](./articles/R04-essays/R04-14-typhoon-annual-impact-a-share-quantification.md) · [美国CPI负增长A股量化](./articles/R04-essays/R04-15-us-cpi-negative-june2026-a-share-impact-quantification.md) · [上半年金融数据量化](./articles/R04-essays/R04-16-h1-2026-financial-data-structural-change-a-share-quantification.md) · [韩国杠杆ETF监管量化](./articles/R04-essays/R04-17-korea-leveraged-etf-ban-a-share-impact-quantification.md) · [经济半年报A股量化](./articles/R04-essays/R04-18-h1-2026-economy-half-year-report-a-share-quantification.md) · [工信部工信发展量化](./articles/R04-essays/R04-19-miit-h1-2026-industrial-telecom-development-a-share-quantification.md) · [央企回购增持量化](./articles/R04-essays/R04-20-cso-led-buyback-surge-a-share-impact-quantification.md) · [玉米高产密码种业量化](./articles/R04-essays/R04-21-maize-harvest-index-cell-breakthrough-seed-industry-a-share-quantification.md) |
 | [文献综述](./articles/R05-literature/) | R05 | **14** | 经典论文解读、学术前沿、涨停归因 | [文献综述](./articles/R05-literature/R05-01-literature-review-and-frontier.md) · [五因子模型](./articles/R05-literature/R05-02-fama-french-five-factor.md) · [机器学习量化](./articles/R05-literature/R05-03-ml-quant-applications.md) · [涨停归因模型](./articles/R05-literature/R05-04-limit-up-attribution-model.md) · [CAPM理论详解](./articles/R05-literature/R05-05-CAPM-capital-asset-pricing-model-theory.md) · [CAPM Python实战](./articles/R05-literature/R05-06-CAPM-python-implementation.md) · [Fama-French详解](./articles/R05-literature/R05-07-fama-french-multi-factor-model-theory.md) · [Fama-French实战](./articles/R05-literature/R05-08-fama-french-python-implementation.md) · [APT理论详解](./articles/R05-literature/R05-09-apt-arbitrage-pricing-theory.md) · [APT Python实战](./articles/R05-literature/R05-10-apt-python-implementation.md) · [Markowitz理论详解](./articles/R05-literature/R05-11-markowitz-mean-variance-model-theory.md) · [Markowitz Python实战](./articles/R05-literature/R05-12-markowitz-python-implementation.md) · [Black-Litterman理论详解](./articles/R05-literature/R05-13-black-litterman-model-theory.md) · [Black-Litterman Python实战](./articles/R05-literature/R05-14-black-litterman-python-implementation.md) |
 
 #### O - 开源项目（Open Source Projects）
