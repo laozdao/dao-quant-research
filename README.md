@@ -16,7 +16,7 @@
 
 ## 🎯 关于本仓库
 
-**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **196** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
+**Dao Quant Research** 是一个专注于 **中国 A 股市场量化分析** 的研究知识库，收录 **197** 篇 Markdown 格式的研究文章，系统性地记录和分享基于"双引擎四层融合模型"的量化分析研究。
 
 ### 核心方法论：双引擎四层融合模型
 
@@ -57,16 +57,16 @@
 
 ### 📊 统计概览
 
-> 共收录 **196** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
+> 共收录 **197** 篇研究文章，覆盖 **29** 个子分类，按 **5 大板块** 组织
 
 | 板块 | 目录数 | 文章数 | 平均每目录 | 说明 |
 |------|:------:|:------:|:----------:|------|
 | **M - 模型理论** | 7 | **28** | 4.0篇 | 双引擎四层模型完整解析 |
-| **I - 行业研究** | 10 | **67** | 6.7篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
+| **I - 行业研究** | 10 | **68** | 6.8篇 | 银行/非银/地产/医药/电子/新能源/消费/周期/TMT/制造 |
 | **C - 个股案例** | 5 | 16 | 3.2篇 | 沪深300/中证500/创业板/科创板/北交所分析框架 |
 | **R - 研究方法论** | 5 | **52** | 10.4篇 | 工具/数据处理/回测/随笔/文献综述 |
 | **O - 开源项目** | 2 | 32 | 16篇 | 量化交易开源项目深度解析 + AI Hedge Fund Agent系列 |
-| **总计** | **29** | **196** | **6.8篇** | 覆盖量化投资全流程 |
+| **总计** | **29** | **197** | **6.8篇** | 覆盖量化投资全流程 |
 
 ---
 
@@ -76,6 +76,7 @@
 
 | 文章 | 分类 | 日期 | 难度 | 阅读时间 |
 |------|------|------|:----:|:--------:|
+| **[新型电力系统建设"十五五"规划落地：5万亿电网投资、3亿千瓦储能与A股新能源产业链估值重塑深度量化分析](./articles/I06-new-energy/I06-11-new-power-system-15th-five-year-plan-5-trillion-investment-a-share-quantification.md)** | I06 | 2026-08-03 | 🔴 高级 | 55min |
 | **[央行2026年下半年工作会议：适度宽松货币政策延续、逆周期调节加力与A股流动性框架重塑深度量化分析](./articles/R04-essays/R04-28-pboc-h2-2026-work-conference-moderately-loose-monetary-policy-a-share-quantification.md)** | R04 | 2026-08-02 | 🔴 高级 | 55min |
 | **[ChinaJoy 2026"与AI同游"：B端AI渗透率86%但C端AI原生游戏爆款悬念与A股游戏板块估值重塑深度量化分析](./articles/I09-tmt/I09-08-chinajoy-2026-ai-native-gaming-a-share-quantification.md)** | I09 | 2026-08-02 | 🔴 高级 | 55min |
 | **[四部委联合发布金融机构治理22条：破除'例外论'、穿透式监管与A股金融板块估值重塑深度量化分析](./articles/R04-essays/R04-27-four-ministries-financial-governance-22-measures-a-share-quantification.md)** | R04 | 2026-08-01 | 🔴 高级 | 55min |
@@ -138,7 +139,7 @@
 | **[国泰君安191因子（GTJA191）完整公式表](./articles/M06-factor-validation/M06-06-gtja191-formula-reference.md)** | M06 | 2026-06-15 | 🟢 初级 | 20min |
 | **[A股大盘所处阶段判断的量化分析方法：多维度择时框架](./articles/M03-volume-price-engine/M03-06-market-stage-quantification.md)** | M03 | 2026-06-14 | 🔴 高级 | 45min |
 
-> 📌 **查看更多**：完整 **196** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
+> 📌 **查看更多**：完整 **197** 篇文章请浏览下方 [📚 完整分类目录](#-完整分类目录)
 
 ---
 
@@ -169,7 +170,7 @@
 | [房地产](./articles/I03-real-estate/) | I03 | **4** | 房企量化分析、三道红线 | [行业分析](./articles/I03-real-estate/I03-01-real-estate-analysis.md) · [周期择时](./articles/I03-real-estate/I03-02-real-estate-cycle-timing-strategy.md) · [REITs投资](./articles/I03-real-estate/I03-03-reits-infrastructure-investment.md) · [城市更新十五五](./articles/I03-real-estate/I03-04-urban-renewal-15th-five-year-plan.md) |
 | [医药生物](./articles/I04-pharma/) | I04 | **3** | 创新药、医疗器械、CXO | [行业分析](./articles/I04-pharma/I04-01-pharma-analysis.md) · [创新药估值](./articles/I04-pharma/I04-02-innovative-drug-valuation-pipeline.md) · [医疗器械](./articles/I04-pharma/I04-03-medical-device-innovation.md) |
 | [电子半导体](./articles/I05-semiconductor/) | I05 | **17** | 芯片、消费电子、半导体设备、物理AI、美光财报、长鑫存储、电子特气、芯片清洗气体、韬定律、DeepSeek、氦气出口禁令、NPO光互联、长鑫科创板上市、SK海力士存储超级周期 | [芯鉴九维模型](./articles/I05-semiconductor/I05-01-daocore-9dim-model.md) · [设备国产替代](./articles/I05-semiconductor/I05-02-semiconductor-equipment-localization.md) · [AI芯片](./articles/I05-semiconductor/I05-03-ai-chip-computing-demand.md) · [长鑫科技IPO](./articles/I05-semiconductor/I05-04-cxmt-ipo-impact-analysis.md) · [华为韬定律](./articles/I05-semiconductor/I05-05-huawei-tao-law-analysis.md) · [六氟化钨分析](./articles/I05-semiconductor/I05-06-wf6-tungsten-hexafluoride-analysis.md) · [物理AI产业链](./articles/I05-semiconductor/I05-07-physical-ai-industry-chain.md) · [美光财报量化](./articles/I05-semiconductor/I05-08-micron-fy26q3-earnings-impact-quantification.md) · [长鑫存储IPO估值重塑](./articles/I05-semiconductor/I05-09-cxmt-ipo-semiconductor-valuation-reshape-quantification.md) · [氩气CO₂芯片清洗](./articles/I05-semiconductor/I05-10-gas-argon-co2-chip-cleaning-quantification.md) · [电子特气量化](./articles/I05-semiconductor/I05-11-gas-electronic-special-semiconductor-quantification.md) · [韬定律V2量化](./articles/I05-semiconductor/I05-12-huawei-tao-law-v2-semiconductor-paradigm-quantification.md) · [DeepSeek V4芯片量化](./articles/I05-semiconductor/I05-13-deepseek-v4-chip-a-share-impact-quantification.md) · [氦气出口禁令量化](./articles/I05-semiconductor/I05-14-helium-export-ban-semiconductor-gas-domestic-substitution-quantification.md) · [NPO超级节点量化](./articles/I05-semiconductor/I05-15-npo-near-packaged-optics-super-node-a-share-quantification.md) · [长鑫科创板上市量化](./articles/I05-semiconductor/I05-16-cxmt-star-market-listing-a-share-valuation-reshape-quantification.md) · [SK海力士存储超级周期量化](./articles/I05-semiconductor/I05-17-sk-hynix-q2-2026-earnings-hbm4-storage-super-cycle-a-share-quantification.md) |
-| [新能源](./articles/I06-new-energy/) | I06 | **10** | 光伏、锂电、储能、新能源车、新型能源体系、氢能、循环经济、碳达峰储能、电池消费税、风光超越火电 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) · [算电协同](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md) · [新型能源体系十五五量化](./articles/I06-new-energy/I06-05-new-energy-system-15th-five-year-quantification.md) · [氢气碳中和量化](./articles/I06-new-energy/I06-06-gas-hydrogen-carbon-neutral-quantification.md) · [循环经济十五五量化](./articles/I06-new-energy/I06-07-circular-economy-15th-five-year-quantification.md) · [碳达峰储能虚拟电厂量化](./articles/I06-new-energy/I06-08-carbon-peak-15th-five-year-energy-storage-vpp-quantification.md) · [电池消费税新政量化](./articles/I06-new-energy/I06-09-battery-consumption-tax-policy-a-share-quantification.md) · [风光超越火电量化](./articles/I06-new-energy/I06-10-wind-solar-surpass-thermal-2026-energy-report-quantification.md) |
+| [新能源](./articles/I06-new-energy/) | I06 | **11** | 光伏、锂电、储能、新能源车、新型能源体系、氢能、循环经济、碳达峰储能、电池消费税、风光超越火电、新型电力系统 | [行业分析](./articles/I06-new-energy/I06-01-new-energy-analysis.md) · [新能源车](./articles/I06-new-energy/I06-02-new-energy-vehicle-investment.md) · [储能产业](./articles/I06-new-energy/I06-03-energy-storage-industry-analysis.md) · [算电协同](./articles/I06-new-energy/I06-04-computing-power-electricity-synergy.md) · [新型能源体系十五五量化](./articles/I06-new-energy/I06-05-new-energy-system-15th-five-year-quantification.md) · [氢气碳中和量化](./articles/I06-new-energy/I06-06-gas-hydrogen-carbon-neutral-quantification.md) · [循环经济十五五量化](./articles/I06-new-energy/I06-07-circular-economy-15th-five-year-quantification.md) · [碳达峰储能虚拟电厂量化](./articles/I06-new-energy/I06-08-carbon-peak-15th-five-year-energy-storage-vpp-quantification.md) · [电池消费税新政量化](./articles/I06-new-energy/I06-09-battery-consumption-tax-policy-a-share-quantification.md) · [风光超越火电量化](./articles/I06-new-energy/I06-10-wind-solar-surpass-thermal-2026-energy-report-quantification.md) · [新型电力系统5万亿投资量化](./articles/I06-new-energy/I06-11-new-power-system-15th-five-year-plan-5-trillion-investment-a-share-quantification.md) |
 | [消费](./articles/I07-consumer/) | I07 | **7** | 白酒、食品饮料、家电、体育消费、以旧换新、旅游强国、扩大消费 | [行业分析](./articles/I07-consumer/I07-01-consumer-analysis.md) · [白酒品牌](./articles/I07-consumer/I07-02-liquor-brand-moat-analysis.md) · [家电出海](./articles/I07-consumer/I07-03-home-appliance-globalization.md) · [体育赛事影响](./articles/I07-consumer/I07-04-mega-sports-event-market-impact.md) · [以旧换新量化](./articles/I07-consumer/I07-05-trade-in-subsidy-consumption-chain-quantification.md) · [旅游强国十五五量化](./articles/I07-consumer/I07-06-tourism-powerhouse-15th-five-year-quantification.md) · [扩大消费十五五规划量化](./articles/I07-consumer/I07-07-consumption-15th-five-year-plan-a-share-quantification.md) |
 | [周期](./articles/I08-cyclical/) | I08 | **9** | 钢铁、煤炭、化工、有色、地缘冲突、工业气体、生猪养殖 | [行业分析](./articles/I08-cyclical/I08-01-cyclical-analysis.md) · [煤炭供需](./articles/I08-cyclical/I08-02-coal-supply-demand-price.md) · [有色金属](./articles/I08-cyclical/I08-03-nonferrous-metals-cycle.md) · [氧化钇概念量化](./articles/I08-cyclical/I08-04-yttria-concept-quantification.md) · [美伊冲突油价量化](./articles/I08-cyclical/I08-05-iran-conflict-oil-price-a-share-impact-quantification.md) · [工业气体全景](./articles/I08-cyclical/I08-06-industrial-gas-overview-market-landscape-quantification.md) · [氧气氮气量化](./articles/I08-cyclical/I08-07-gas-oxygen-nitrogen-air-separation-quantification.md) · [稀有气体量化](./articles/I08-cyclical/I08-08-gas-rare-noble-helium-neon-krypton-xenon-quantification.md) · [猪养殖周期量化](./articles/I08-cyclical/I08-09-pig-farming-cycle-change-quantification.md) |
 | [TMT](./articles/I09-tmt/) | I09 | **7** | 互联网、软件、传媒、通信、MLCC、工业互联网、大模型、AI游戏 | [行业分析](./articles/I09-tmt/I09-01-tmt-analysis.md) · [互联网平台](./articles/I09-tmt/I09-02-internet-platform-economy-analysis.md) · [通信运营商](./articles/I09-tmt/I09-03-telecom-operator-valuation.md) · [MLCC超级周期量化](./articles/I09-tmt/I09-05-mlcc-super-cycle-ai-ev-quantification.md) · [工业互联网AI量化](./articles/I09-tmt/I09-06-industrial-internet-ai-implementation-quantification.md) · [大模型A股上市影响量化](./articles/I09-tmt/I09-07-ai-model-a-share-ipo-impact-quantification.md) · [ChinaJoy AI游戏量化](./articles/I09-tmt/I09-08-chinajoy-2026-ai-native-gaming-a-share-quantification.md) |
